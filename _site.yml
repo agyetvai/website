@@ -1,0 +1,22 @@
+name: "attilas-website"
+output_dir: "."
+navbar:
+  # type: light    # inverse light
+  title: "Attila Gyetvai"
+  left:
+    - text: "CV"
+      href: CV_AttilaGyetvai.pdf
+    - text: "Research"
+      href: research.html
+  right:
+    - icon: ion-social-twitter
+      href: https://twitter.com/AttilaGyetvai
+    - icon: ion-social-linkedin
+      href: https://www.linkedin.com/in/agyetvai/
+    - icon: ion-social-github
+      href: https://github.com/agyetvai
+output:
+  html_document:
+    theme: cosmo    # https://github.com/thomaspark/bootswatch/tree/master/dist
+    # default cerulean cosmo flatly lumen sandstone simplex united yeti
+    css: styles.css

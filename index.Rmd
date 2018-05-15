@@ -1,0 +1,10 @@
+---
+title: "Attila Gyetvai"
+---
+
+
+<center><img src="photo.jpg" style="width: 200px; margin-bottom: 40px"/></center>
+
+<p class=intro>I am a PhD Candidate in Economics at Duke University.
+My research focuses on topics in labor and productivity.</p>
+

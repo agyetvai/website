@@ -1,0 +1,73 @@
+h1.title {
+  font-size: 100%;
+  color: #1a1a1a;
+  padding: 0;
+  visibility: hidden;
+}
+
+h1 {
+  font-size: 175%;
+  color: #1a1a1a;
+  padding: 10px;
+}
+
+h2 {
+  font-size: 150%;
+  font-weight: bold;
+  color: #1a1a1a;
+  padding: 10px;
+}
+
+p {
+  font-size: 100%;
+  color: #1a1a1a;
+}
+
+p.footer {
+  text-align: center;
+  font-size: 75%;
+  margin-top: 10%;
+  color: #1a1a1a;
+}
+
+body {
+  color: #1a1a1a;
+}
+
+/* unvisited link */
+a:link {
+    color: #999999;
+}
+
+/* visited link */
+a:visited {
+    color: #999999;
+}
+
+/* mouse over link */
+a:hover {
+    color: #999999;
+}
+
+/* selected link */
+a:active {
+  color: #999999;
+}
+
+ul.itemize {
+  padding-bottom: 20px;
+}
+
+ul li.itemize {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+}
+
+p.intro {
+  width: 60%;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+}
+

@@ -1,0 +1,11 @@
+---
+title: "Attila Gyetvai"
+---
+
+# Work in Progress
+
+<ul class="itemize">
+  <li class="itemize">"Occupational Structure and Firm Performance"</li>
+
+  <li class="itemize">"Conditional Choice Probability Estimation of Continuous-Time Job Search Models," with <a href="http://public.econ.duke.edu/~psarcidi/" target="_blank">Peter Arcidiacono</a>, <a href="https://faculty.washington.edu/erosh/" target="_blank">Ekaterina Jardim</a>, and <a href="http://www.amaurel.net" target="_blank">Arnaud Maurel</a></li>
+</ul>
