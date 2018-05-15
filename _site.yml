@@ -20,3 +20,5 @@ output:
     theme: cosmo    # https://github.com/thomaspark/bootswatch/tree/master/dist
     # default cerulean cosmo flatly lumen sandstone simplex united yeti
     css: styles.css
+    includes:
+       in_header: gtags.html
