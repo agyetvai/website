@@ -7,5 +7,7 @@ title: "Attila Gyetvai"
 <ul class="itemize">
   <li class="itemize">"Occupational Structure and Firm Performance"</li>
 
-  <li class="itemize">"Conditional Choice Probability Estimation of Continuous-Time Job Search Models," with Peter Arcidiacono, Ekaterina Jardim, and Arnaud Maurel
+  <li class="itemize">"Conditional Choice Probability Estimation of Continuous-Time Job Search Models," with Peter Arcidiacono, Ekaterina Jardim, and Arnaud Maurel</li>
+  
+  <li class="itemize">"Coworker Networks and the Role of Occupations in Job Search," with Maria Zhu</li>
 </ul>
