@@ -8,7 +8,7 @@
 
 /* Headers */
 h1 {
-  font-size: 200%;
+  font-size: 250%;
   color: var(--text-color);
   text-align: center;
   margin-top:20px;
@@ -20,11 +20,11 @@ h1 {
 
 h1.title { padding: 0px; visibility: hidden; }
 h1.name { padding: 30px; padding-bottom: 0px; }
-h1.affil { font-size: 80%; font-weight: lighter; }
-h1.navbar { font-size: 110%; padding: 30px; font-variant: small-caps; }
+h1.affil { font-size: 100%; font-weight: lighter; }
+h1.navbar { font-size: 150%; padding: 30px; font-variant: small-caps; }
 
 h2 {
-  font-size: 130%;
+  font-size: 170%;
   color: var(--text-color);
   font-weight: bolder;
   padding: 10px;
@@ -34,14 +34,14 @@ h2 {
 
 /* Text */
 p {
-  font-size: 100%;
+  font-size: 130%;
   color: var(--text-color);
   font-weight: lighter;
 }
 
-p.intro { text-align: center; font-size: 85%; }
+p.intro { text-align: center; font-size: 100%; }
 p.papertitle {}
-p.paperdet { font-size: 85%; line-height: 1.5; }
+p.paperdet { font-size: 100%; line-height: 1.5; }
 
 body {
   color: var(--text-color);
