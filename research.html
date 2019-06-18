@@ -15,14 +15,13 @@
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-1.1/highlight.js"></script>
-<link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119246034-1"></script>
 <script>
@@ -105,58 +104,6 @@ button.code-folding-btn:focus {
 </style>
 
 
-<style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-</style>
-
-<script>
-// manage active state of menu based on current page
-$(document).ready(function () {
-  // active menu anchor
-  href = window.location.pathname
-  href = href.substr(href.lastIndexOf('/') + 1)
-  if (href === "")
-    href = "index.html";
-  var menuAnchor = $('a[href="' + href + '"]');
-
-  // mark it active
-  menuAnchor.parent().addClass('active');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
-});
-</script>
-
 
 <div class="container-fluid main-container">
 
@@ -174,49 +121,6 @@ $(document).ready(function () {
 
 
 
-<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="index.html">Attila Gyetvai</a>
-    </div>
-    <div id="navbar" class="navbar-collapse collapse">
-      <ul class="nav navbar-nav">
-        <li>
-  <a href="CV_AttilaGyetvai.pdf">CV</a>
-</li>
-<li>
-  <a href="research.html">Research</a>
-</li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li>
-  <a href="https://twitter.com/AttilaGyetvai">
-    <span class="ion ion-social-twitter"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="https://www.linkedin.com/in/agyetvai/">
-    <span class="ion ion-social-linkedin"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="https://github.com/agyetvai">
-    <span class="ion ion-social-github"></span>
-     
-  </a>
-</li>
-      </ul>
-    </div><!--/.nav-collapse -->
-  </div><!--/.container -->
-</div><!--/.navbar -->
-
 <div class="fluid-row" id="header">
 
 
@@ -226,19 +130,60 @@ $(document).ready(function () {
 </div>
 
 
-<div id="work-in-progress" class="section level1">
-<h1>Work in Progress</h1>
-<ul class="itemize">
-<li class="itemize">
-“Occupational Structure and Firm Performance”
+<h1 class="name">
+<a href="index.html" class=name> Attila Gyetvai </a>
+</h1>
+<h1 class="affil">
+PhD Candidate at Duke
+</h1>
+<h1 class="navbar">
+<a href="research.html" class=name> RESEARCH </a>       <a href="CV_AttilaGyetvai.pdf" class=name> CV </a>
+</h1>
+<!--
+## Working Papers
+
+<ul>
+  <li> 
+  <p class=papertitle> <a href="ojs.pdf"> <b> Occupational Job Search </b> </a> </p>
+  <p class=paperdet> <i> Abstract: </i> 
+  This paper develops a parsimonious framework for modeling job search in occupationally segmented labor markets. I start by documenting that patterns of job-to-job and unemployment-to-job flows vary substantially across occupations. Canonical job search models with homogeneous search frictions cannot explain these job flows, as the simulated patterns would look identical for all occupations. In contrast, my framework allows for heterogeneity in search frictions within and across occupations. I build a job search model in which workers may either climb one of many job ladders, each of which represents an occupation with wage levels as rungs, or may jump from one ladder to another. The heterogeneity in search frictions explodes with the addition of occupations, which poses a challenge for identification and estimation. I overcome this challenge by introducing preference shocks to job search which tie the structural parameters of the model to conditional choice probabilities of accepting offers. On top of search frictions and preference shocks, occupational job flow patterns may also arise from compensating differentials and switching costs, and may differ across unobserved worker types. Taking my model to rich administrative data from Hungary, I show that occupational heterogeneity in search frictions, compensating differentials, and switching costs explains the observed job flows. The general framework in this paper is readily applicable to model job search in arbitrarily segmented labor markets.
+  </p> </li>
+  
+  <li> 
+  <p class=papertitle> <a href="ccp-cont.pdf"> <b> Conditional Choice Probability Estimation of Continuous-Time Job Search Models </b> </a> </br>
+  with Peter Arcidiacono, Ekaterina Jardim, and Arnaud Maurel </p>
+  <p class=paperdet> <i> Abstract: </i> 
+  In this paper we propose a new method to estimate continuous-time job search models. Our approach is based on an adaptation of the conditional choice probability estimation methods to a continuous time job search environment. To do so, the proposed framework incorporates preference shocks into the search framework, resulting in a tight connection between value functions and conditional choice probabilities. A key advantage of the proposed approach relative to standard estimation methods for continuous-time job search models is computational. In particular, this makes it possible to estimate rich nonstationary job search models without having to solve any differential equation, and in some cases even avoiding any optimization. We apply our method to analyze the effect of unemployment benefit expiration on the duration of unemployment using rich longitudinal data from Hungarian administrative records.
+  </p> </li>
+</ul>
+-->
+<div id="work-in-progress" class="section level2">
+<h2>Work in Progress</h2>
+<ul>
+<li>
+<p class="papertitle">
+<b> Occupational Job Search </b>
+</p>
 </li>
-<li class="itemize">
-“Conditional Choice Probability Estimation of Continuous-Time Job Search Models,” with Peter Arcidiacono, Ekaterina Jardim, and Arnaud Maurel
+<li>
+<p class="papertitle">
+<b> Occupational Structure and Firm Performance </b>
+</p>
 </li>
-<li class="itemize">
-“Coworker Networks and the Role of Occupations in Job Search,” with Maria Zhu
+<li>
+<p class="papertitle">
+<b> Conditional Choice Probability Estimation of Continuous-Time Job Search Models </b> <br/> with Peter Arcidiacono, Ekaterina Jardim, and Arnaud Maurel
+</p>
+</li>
+<li>
+<p class="papertitle">
+<b> Coworker Networks and the Role of Occupations in Job Search </b> <br/> with Maria Zhu
+</p>
 </li>
 </ul>
+</div>
+<div id="section" class="section level2">
+<h2></h2>
 </div>
 
 

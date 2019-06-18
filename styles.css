@@ -1,73 +1,75 @@
-h1.title {
-  font-size: 100%;
-  color: #1a1a1a;
-  padding: 0;
-  visibility: hidden;
+/*Color definitions*/
+:root {
+    --text-color: #1a1a1a;
+    --link-color: #0046b7;
+    --link-hover-color: #99c0ff;
+    --link-name-hover-color: #0046b7;
 }
 
+/* Headers */
 h1 {
-  font-size: 175%;
-  color: #1a1a1a;
-  padding: 10px;
+  font-size: 200%;
+  color: var(--text-color);
+  text-align: center;
+  margin-top:20px;
+  margin-bottom:0px;
+  a {
+    color: var(--text-color);
+  }
 }
+
+h1.title { padding: 0px; visibility: hidden; }
+h1.name { padding: 30px; padding-bottom: 0px; }
+h1.affil { font-size: 80%; font-weight: lighter; }
+h1.navbar { font-size: 110%; padding: 30px; font-variant: small-caps; }
 
 h2 {
-  font-size: 150%;
-  font-weight: bold;
-  color: #1a1a1a;
+  font-size: 130%;
+  color: var(--text-color);
+  font-weight: bolder;
   padding: 10px;
+  padding-left: 50px;
 }
 
+
+/* Text */
 p {
   font-size: 100%;
-  color: #1a1a1a;
+  color: var(--text-color);
+  font-weight: lighter;
 }
 
-p.footer {
-  text-align: center;
-  font-size: 75%;
-  margin-top: 10%;
-  color: #1a1a1a;
-}
+p.intro { text-align: center; font-size: 85%; }
+p.papertitle {}
+p.paperdet { font-size: 85%; line-height: 1.5; }
 
 body {
-  color: #1a1a1a;
+  color: var(--text-color);
+  font-weight: lighter;
 }
 
-/* unvisited link */
-a:link {
-    color: #999999;
-}
-
-/* visited link */
-a:visited {
-    color: #999999;
-}
-
-/* mouse over link */
-a:hover {
-    color: #999999;
-}
-
-/* selected link */
-a:active {
-  color: #999999;
-}
-
-ul.itemize {
+ul {
   padding-bottom: 20px;
 }
 
-ul li.itemize {
+ul li {
   list-style-type: none;
   margin: 0;
   padding: 10px;
+  padding-bottom: 20px;
+  text-align: justify;
+  color: var(--text-color);
+  font-weight: lighter;
 }
 
-p.intro {
-  width: 60%;
-  text-align: justify;
-  margin-left: auto;
-  margin-right: auto;
-}
+
+/* Links */
+a:link { color: var(--link-color); }
+a:visited { color: var(--link-color); }
+a:hover { color: var(--link-hover-color); text-decoration: none; }
+a:active { color: var(--link-color); }
+a.name:link { color: var(--text-color); }
+a.name:visited { color: var(--text-color); }
+a.name:hover { color: var(--link-name-hover-color); text-decoration: none; }
+a.name:active { color: var(--text-color); }
 
