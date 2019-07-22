@@ -27,7 +27,7 @@ title: Attila Gyetvai
 ## Work in Progress
 <ul>
   <li> 
-  <p class=papertitle> <b> Occupational Job Search </b> </p>
+  <p class=papertitle> <b> Job Mobility Within and Across Occupations </b> </p>
   </li>
   
   <li> 
