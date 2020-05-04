@@ -27,21 +27,21 @@ title: Attila Gyetvai
 ## Work in Progress
 <ul>
   <li> 
-  <p class=papertitle> <b> Job Mobility Within and Across Occupations </b> </p>
+  <p class=papertitle> Job Mobility Within and Across Occupations </p>
   </li>
   
   <li> 
-  <p class=papertitle> <b> Occupational Structure and Firm Performance </b> </p>
+  <p class=papertitle> Occupational Structure and Firm Performance </p>
   </li>
   
   <li> 
-  <p class=papertitle> <b> Conditional Choice Probability Estimation of Continuous-Time Job Search Models </b> <br/>
-  with Peter Arcidiacono, Ekaterina Jardim, and Arnaud Maurel </p>
+  <p class=papertitle> Conditional Choice Probability Estimation of Continuous-Time Job Search Models <br/>
+  (with Peter Arcidiacono, Ekaterina Jardim, and Arnaud Maurel) </p>
   </li>
   
   <li> 
-  <p class=papertitle> <b> Coworker Networks and the Role of Occupations in Job Search </b> <br/>
-  with Maria Zhu </p>
+  <p class=papertitle> Coworker Networks and the Role of Occupations in Job Search <br/>
+  (with Maria Zhu) </p>
   </li>
 </ul>
 
