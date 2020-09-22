@@ -40,7 +40,7 @@ title: Attila Gyetvai
   </li>
   
   <li> 
-  <p class=papertitle> Coworker Networks and the Role of Occupations in Job Search <br/>
+  <p class=papertitle> Coworker Networks and the Role of Occupations in Job Finding <br/>
   (with Maria Zhu) </p>
   </li>
 </ul>
