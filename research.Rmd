@@ -10,16 +10,37 @@ title: Attila Gyetvai
 
 <ul>
   <li> 
-  <p class=papertitle> <a href="ojs.pdf"> <b> Occupational Job Search </b> </a> </p>
+  <p class=papertitle> <a href="ojs.pdf"><b><u>Job Mobility Within and Across Occupations</b></u></a> (Job Market Paper) </p>
   <p class=paperdet> <i> Abstract: </i> 
-  This paper develops a parsimonious framework for modeling job search in occupationally segmented labor markets. I start by documenting that patterns of job-to-job and unemployment-to-job flows vary substantially across occupations. Canonical job search models with homogeneous search frictions cannot explain these job flows, as the simulated patterns would look identical for all occupations. In contrast, my framework allows for heterogeneity in search frictions within and across occupations. I build a job search model in which workers may either climb one of many job ladders, each of which represents an occupation with wage levels as rungs, or may jump from one ladder to another. The heterogeneity in search frictions explodes with the addition of occupations, which poses a challenge for identification and estimation. I overcome this challenge by introducing preference shocks to job search which tie the structural parameters of the model to conditional choice probabilities of accepting offers. On top of search frictions and preference shocks, occupational job flow patterns may also arise from compensating differentials and switching costs, and may differ across unobserved worker types. Taking my model to rich administrative data from Hungary, I show that occupational heterogeneity in search frictions, compensating differentials, and switching costs explains the observed job flows. The general framework in this paper is readily applicable to model job search in arbitrarily segmented labor markets.
+  This paper assesses the impact of occupations on the inequality of wages over the life cycle. 
+  I build and estimate a structural model of mobility in which workers climb one of many job ladders, each associated with an occupation, and may jump from one ladder to another. 
+  The key sources of heterogeneity are occupation-specific offer arrival rates, job separation rates, compensating differentials, and switching costs. 
+  Using rich longitudinal data from Hungarian administrative records, I uncover substantial heterogeneity in the underlying determinants of job flows that capture workers' opportunities to climb the occupational job ladders as well as their preferences for occupations. 
+  Simulating career paths, I show that workers who start their careers in low-paying jobs in a high-skill occupation quickly surpass their high-wage peers in low-skill occupations. 
+  I demonstrate that occupational heterogeneity explains the life-cycle profile of inequality in wages. 
   </p> </li>
   
   <li> 
-  <p class=papertitle> <a href="ccp-cont.pdf"> <b> Conditional Choice Probability Estimation of Continuous-Time Job Search Models </b> </a> </br>
-  with Peter Arcidiacono, Ekaterina Jardim, and Arnaud Maurel </p>
+  <p class=papertitle> <a href="ccp-cont.pdf"><b><u>Conditional Choice Probability Estimation of Continuous-Time Job Search Models</u></b></a> </br>
+  with <a href="http://public.econ.duke.edu/~psarcidi/">Peter Arcidiacono</a>, <a href="https://ekaterinajardim.com">Ekaterina Jardim</a>, and <a href="http://www.amaurel.net">Arnaud Maurel</a> </p>
   <p class=paperdet> <i> Abstract: </i> 
-  In this paper we propose a new method to estimate continuous-time job search models. Our approach is based on an adaptation of the conditional choice probability estimation methods to a continuous time job search environment. To do so, the proposed framework incorporates preference shocks into the search framework, resulting in a tight connection between value functions and conditional choice probabilities. A key advantage of the proposed approach relative to standard estimation methods for continuous-time job search models is computational. In particular, this makes it possible to estimate rich nonstationary job search models without having to solve any differential equation, and in some cases even avoiding any optimization. We apply our method to analyze the effect of unemployment benefit expiration on the duration of unemployment using rich longitudinal data from Hungarian administrative records.
+  In this paper we propose a new method to estimate continuous-time job search models. 
+  Our approach is based on an adaptation of the conditional choice probability estimation methods to a continuous-time job search environment. 
+  To do so, the proposed framework incorporates preference shocks into the search framework, resulting in a tight connection between value functions and conditional choice probabilities. 
+  A key advantage of the proposed approach relative to standard estimation methods for continuous-time job search models is computational. 
+  In particular, this makes it possible to estimate rich nonstationary job search models without having to solve any differential equation, and in some cases even avoiding any optimization. 
+  We apply our method to analyze the effect of unemployment benefit expiration on the duration of unemployment using rich longitudinal data from Hungarian administrative records.
+  </p> </li>
+  
+  <li> 
+  <p class=papertitle> <a href="wn.pdf"><b><u>Coworker Networks and the Role of Occupations in Job Finding</u></b></a> </br>
+  with <a href="http://www.mariazhu.com">Maria Zhu</a></p>
+  <p class=paperdet> <i> Abstract: </i> 
+  Which former coworkers help displaced workers find jobs? 
+  We answer this question by studying occupational similarity in job finding networks. 
+  Using administrative matched employer-employee data from Hungary, this paper relates the unemployment duration of displaced workers to the employment rate in the networks of their former coworkers in various occupations. 
+  We find that only those former coworkers are helpful in the job finding process who worked in the same narrow occupation as the displaced worker. 
+  However, effects vary along educational levels: for displaced workers in occupations that require little to no education, coworkers in the same narrow occupation matter; for those in occupations requiring more education, coworkers in different occupations reduce unemployment.
   </p> </li>
 </ul>
 -->
@@ -27,21 +48,41 @@ title: Attila Gyetvai
 ## Work in Progress
 <ul>
   <li> 
-  <p class=papertitle> Job Mobility Within and Across Occupations </p>
-  </li>
+  <p class=papertitle> <b>Job Mobility Within and Across Occupations</b> (Job Market Paper) </p>
+  <p class=paperdet> <i> Abstract: </i> 
+  This paper assesses the impact of occupations on the inequality of wages over the life cycle. 
+  I build and estimate a structural model of mobility in which workers climb one of many job ladders, each associated with an occupation, and may jump from one ladder to another. 
+  The key sources of heterogeneity are occupation-specific offer arrival rates, job separation rates, compensating differentials, and switching costs. 
+  Using rich longitudinal data from Hungarian administrative records, I uncover substantial heterogeneity in the underlying determinants of job flows that capture workers' opportunities to climb the occupational job ladders as well as their preferences for occupations. 
+  Simulating career paths, I show that workers who start their careers in low-paying jobs in a high-skill occupation quickly surpass their high-wage peers in low-skill occupations. 
+  I demonstrate that occupational heterogeneity explains the life-cycle profile of inequality in wages. 
+  </p> </li>
   
   <li> 
-  <p class=papertitle> Occupational Structure and Firm Performance </p>
-  </li>
+  <p class=papertitle> <b>Conditional Choice Probability Estimation of Continuous-Time Job Search Models</b> </br>
+  with <a href="http://public.econ.duke.edu/~psarcidi/">Peter Arcidiacono</a>, <a href="https://ekaterinajardim.com">Ekaterina Jardim</a>, and <a href="http://www.amaurel.net">Arnaud Maurel</a> </p>
+  <p class=paperdet> <i> Abstract: </i> 
+  In this paper we propose a new method to estimate continuous-time job search models. 
+  Our approach is based on an adaptation of the conditional choice probability estimation methods to a continuous-time job search environment. 
+  To do so, the proposed framework incorporates preference shocks into the search framework, resulting in a tight connection between value functions and conditional choice probabilities. 
+  A key advantage of the proposed approach relative to standard estimation methods for continuous-time job search models is computational. 
+  In particular, this makes it possible to estimate rich nonstationary job search models without having to solve any differential equation, and in some cases even avoiding any optimization. 
+  We apply our method to analyze the effect of unemployment benefit expiration on the duration of unemployment using rich longitudinal data from Hungarian administrative records.
+  </p> </li>
   
   <li> 
-  <p class=papertitle> Conditional Choice Probability Estimation of Continuous-Time Job Search Models <br/>
-  (with Peter Arcidiacono, Ekaterina Jardim, and Arnaud Maurel) </p>
-  </li>
+  <p class=papertitle> <b>Coworker Networks and the Role of Occupations in Job Finding</b> </br>
+  with <a href="http://www.mariazhu.com">Maria Zhu</a></p>
+  <p class=paperdet> <i> Abstract: </i> 
+  Which former coworkers help displaced workers find jobs? 
+  We answer this question by studying occupational similarity in job finding networks. 
+  Using administrative matched employer-employee data from Hungary, this paper relates the unemployment duration of displaced workers to the employment rate in the networks of their former coworkers in various occupations. 
+  We find that only those former coworkers are helpful in the job finding process who worked in the same narrow occupation as the displaced worker. 
+  However, effects vary along educational levels: for displaced workers in occupations that require little to no education, coworkers in the same narrow occupation matter; for those in occupations requiring more education, coworkers in different occupations reduce unemployment.
+  </p> </li>
   
   <li> 
-  <p class=papertitle> Coworker Networks and the Role of Occupations in Job Finding <br/>
-  (with Maria Zhu) </p>
+  <p class=papertitle> <b>Occupational Structure and Firm Performance</b></p>
   </li>
 </ul>
 
