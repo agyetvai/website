@@ -44,6 +44,7 @@ p.paperdet { font-size: 100%; line-height: 1.5; }
 body {
   color: var(--text-color);
   font-weight: lighter;
+  overflow-y: scroll;
 }
 
 ul {
