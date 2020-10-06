@@ -77,8 +77,8 @@ title: Attila Gyetvai
   Which former coworkers help displaced workers find jobs? 
   We answer this question by studying occupational similarity in job finding networks. 
   Using administrative matched employer-employee data from Hungary, this paper relates the unemployment duration of displaced workers to the employment rate in the networks of their former coworkers in various occupations. 
-  We find that only those former coworkers are helpful in the job finding process who worked in the same narrow occupation as the displaced worker. 
-  However, effects vary along educational levels: for displaced workers in occupations that require little to no education, coworkers in the same narrow occupation matter; for those in occupations requiring more education, coworkers in different occupations reduce unemployment.
+  We find that coworkers of all occupational backgrounds are helpful in the job finding process, but coworkers who worked in the same narrow occupation as the displaced worker are significantly more useful. 
+  Additionally, effects vary substantially along skill levels: for displaced workers in occupations that require little to no education, coworkers in the same narrow occupation matter; for those in occupations requiring more education, coworkers in different occupations reduce unemployment.
   </p> </li>
   
   <li> 
