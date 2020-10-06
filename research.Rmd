@@ -50,11 +50,12 @@ title: Attila Gyetvai
   <p class=papertitle> <b>Job Mobility Within and Across Occupations</b> (Job Market Paper) </p>
   <p class=paperdet> <i> Abstract: </i> 
   This paper assesses the impact of occupations on the inequality of wages over the life cycle. 
-  I build and estimate a structural model of mobility in which workers climb one of many job ladders, each associated with an occupation, and may jump from one ladder to another. 
-  The key sources of heterogeneity are occupation-specific offer arrival rates, job separation rates, compensating differentials, and switching costs. 
-  Using rich longitudinal data from Hungarian administrative records, I uncover substantial heterogeneity in the underlying determinants of job flows that capture workers' opportunities to climb the occupational job ladders as well as their preferences for occupations. 
-  Simulating career paths, I show that workers who start their careers in low-paying jobs in a high-skill occupation quickly surpass their high-wage peers in low-skill occupations. 
-  I demonstrate that occupational heterogeneity explains the life-cycle profile of inequality in wages. 
+  I document that occupations offer diverging wage trajectories to their workers.
+  I then propose a structural model of mobility that gives rise to such diverging occupational wage trajectories.
+  In the model, workers climb one of many job ladders, each associated with an occupation, and can jump from one ladder to another. 
+  The key sources of heterogeneity are occupation-specific offer arrival rates, job separation rates, nonwage amenities, and switching costs. 
+  Estimating the model on Hungarian administrative data that track workers' occupational employment histories, I uncover substantial heterogeneity in the underlying determinants of job flows that capture workers' opportunities to climb the occupational job ladders as well as their preferences for occupations. 
+  Simulating career paths, I show that occupational heterogeneity explains the life cycle profile of inequality in wages. 
   </p> </li>
   
   <li> 
@@ -84,7 +85,4 @@ title: Attila Gyetvai
   <p class=papertitle> <b>Occupational Structure and Firm Performance</b></p>
   </li>
 </ul>
-
-
-##
 
