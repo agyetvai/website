@@ -5,6 +5,16 @@ title: Attila Gyetvai
 <h1 class=affil>  PhD Candidate in Economics, Duke University </h1>
 <h1 class=navbar> <a href="research.html" class=name> RESEARCH </a> &nbsp; &nbsp; &nbsp; <a href="CV_AttilaGyetvai.pdf" class=name> CV </a> </h1>
 
+```{r include=FALSE}
+coauthors <- data.frame(
+  name = c("Peter Arcidiacono", "Arnaud Maurel", "Maria Zhu", "Ekaterina Jardim"),
+  website = c("http://public.econ.duke.edu/~psarcidi/", "http://www.amaurel.net", "http://www.mariazhu.com", "https://ekaterinajardim.com")
+)
+link <- paste0("<a href=\"", coauthors$website, "\">",coauthors$name,"</a>")
+coauthors <- cbind(coauthors, link)
+row.names(coauthors) <- coauthors$name
+```
+
 <!--
 <ul>
   <li><h2>Working Papers</h2></li>
@@ -60,7 +70,7 @@ title: Attila Gyetvai
   
   <li> 
   <p class=papertitle> <b>Conditional Choice Probability Estimation of Continuous-Time Job Search Models</b> </br>
-  with <a href="http://public.econ.duke.edu/~psarcidi/">Peter Arcidiacono</a>, <a href="https://ekaterinajardim.com">Ekaterina Jardim</a>, and <a href="http://www.amaurel.net">Arnaud Maurel</a> </p>
+  with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Ekaterina Jardim","link"]`, and `r coauthors["Arnaud Maurel","link"]` </p>
   <p class=paperdet> <i> Abstract: </i> 
   We propose a new method to estimate continuous-time job search models. 
 Our approach is based on an adaptation of the conditional choice probability estimation methods to a continuous-time job search environment. To do so, the proposed framework incorporates preference shocks into the search framework, resulting in a tight connection between value functions and conditional choice probabilities. 
@@ -71,7 +81,7 @@ We apply our method to analyze the effect of unemployment benefit expiration on 
   
   <li> 
   <p class=papertitle> <b>Coworker Networks and the Role of Occupations in Job Finding</b> </br>
-  with <a href="http://www.mariazhu.com">Maria Zhu</a></p>
+  with `r coauthors["Maria Zhu","link"]`</p>
   <p class=paperdet> <i> Abstract: </i> 
   Which former coworkers help displaced workers find jobs? 
   We answer this question by studying occupational similarity in job finding networks. 
