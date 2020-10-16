@@ -21,13 +21,12 @@ row.names(coauthors) <- coauthors$name
   <li> 
   <p class=papertitle> <b>Job Mobility Within and Across Occupations</b> </p>
   <p class=paperdet> <i> Abstract: </i> 
-  This paper assesses the impact of occupations on the inequality of wages over the life cycle. 
-  I document that occupations offer diverging wage trajectories to their workers.
-  I then propose a structural model of mobility that gives rise to such diverging occupational wage trajectories.
-  In the model, workers climb one of many job ladders, each associated with an occupation, and can jump from one ladder to another. 
-  The key sources of heterogeneity are occupation-specific offer arrival rates, job separation rates, nonwage amenities, and switching costs. 
-  Estimating the model on Hungarian administrative data that track workers' occupational employment histories, I uncover substantial heterogeneity in the underlying determinants of job flows that capture workers' opportunities to climb the occupational job ladders as well as their preferences for occupations. 
-  Simulating career paths, I show that occupational heterogeneity explains the life cycle profile of inequality in wages. 
+  This paper assesses the impact of occupations on the rising inequality of wages over the life cycle.
+  I develop a model of mobility in which diverging occupational wage profiles arise from five different sources: occupationally heterogeneous wage offers, offer arrivals, job separations, switching costs, and nonwage amenities.
+  I estimate the structural model on linked Hungarian administrative data and use it to arbitrate between the importance of these five sources.
+  High-skill occupations offer higher wages and more stable employment but lower nonwage amenities than low-skill ones.
+  Coupled with less frequent offers and higher costs of switching from low-skill to high-skill jobs, workers who start in high-skill occupations have much steeper wage profiles.
+  Taken together, these sources fully account for the life cycle inequality in wages, with each source contributing equally to fitting the empirical patterns.
   </p> </li>
 </ul>
 
