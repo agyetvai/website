@@ -35,7 +35,7 @@ row.names(coauthors) <- coauthors$name
   <li><h2>Working Papers</h2></li>
   
   <li> 
-  <p class=papertitle> <a href="Gyetvai_Zhu_WorkerNetworks.pdf"><b><u>Coworker Networks and the Role of Occupations in Job Finding</u></b></a> </br>
+  <p class=papertitle> <a href="research/Gyetvai_Zhu_WorkerNetworks.pdf"><b><u>Coworker Networks and the Role of Occupations in Job Finding</u></b></a> </br>
   with `r coauthors["Maria Zhu","link"]`</p>
   <p class=paperdet> <i> Abstract: </i> 
   Which former coworkers help displaced workers find jobs? 
