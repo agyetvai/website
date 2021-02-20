@@ -1,10 +1,13 @@
 /*Color definitions*/
 :root {
-    --text-color: #1a1a1a;
+    --text-color: #111111;
     --link-color: #0046b7;
     --link-hover-color: #99c0ff;
-    --link-name-hover-color: #0046b7;
+    --link-name-hover-color: #D5D8DC;
 }
+
+/* Body */
+body { background-color: #fffff8; }
 
 /* Headers */
 h1 {
@@ -66,7 +69,11 @@ ul li {
 
 
 /* Links */
-a:link { color: var(--link-color); }
+a:link { color: var(--link-color); 
+  transition: color 0.15s linear;
+  -webkit-transition: color 0.15s linear;
+  -moz-transition: color 0.15s linear;
+}
 a:visited { color: var(--link-color); }
 a:hover { color: var(--link-hover-color); text-decoration: none; }
 a:active { color: var(--link-color); }
@@ -74,4 +81,8 @@ a.name:link { color: var(--text-color); }
 a.name:visited { color: var(--text-color); }
 a.name:hover { color: var(--link-name-hover-color); text-decoration: none; }
 a.name:active { color: var(--text-color); }
+a.papertitle:link { color: var(--text-color); }
+a.papertitle:visited { color: var(--text-color); }
+a.papertitle:hover { color: var(--link-name-hover-color); text-decoration: none; }
+a.papertitle:active { color: var(--text-color); }
 
