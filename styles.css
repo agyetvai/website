@@ -67,8 +67,6 @@ ul li {
   font-weight: lighter;
 }
 
-span.speaker { font-size: 50% }
-
 
 /* Links */
 a:link { color: var(--link-color); 
@@ -87,4 +85,12 @@ a.papertitle:link { color: var(--text-color); }
 a.papertitle:visited { color: var(--text-color); }
 a.papertitle:hover { color: var(--link-name-hover-color); text-decoration: none; }
 a.papertitle:active { color: var(--text-color); }
+
+span.speaker { font-size: 50% }
+img.speaker:hover {
+    opacity: 0.3;
+    transition: opacity 0.15s linear;
+    -moz-transition: opacity 0.15s linear;
+    -webkit-transition: opacity 0.15s linear;
+}​
 
