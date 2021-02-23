@@ -67,6 +67,8 @@ ul li {
   font-weight: lighter;
 }
 
+span.speaker { font-size: 50% }
+
 
 /* Links */
 a:link { color: var(--link-color); 

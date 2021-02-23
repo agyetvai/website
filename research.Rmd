@@ -1,7 +1,7 @@
 ---
 title: Attila Gyetvai
 ---
-<h1 class=name>   <a href="/" class=name> Attila Gyetvai </a> </h1>
+<h1 class=name>   <a href="/" class=name> Attila Gyetvai </a> <a href="pronounce" class=name><img src="speaker.svg" width=15></a> </h1>
 <h1 class=affil>  PhD Candidate in Economics, Duke University </h1>
 <h1 class=navbar> <a href="research" class=name> RESEARCH </a> &nbsp; &nbsp; &nbsp; <a href="CV_AttilaGyetvai.pdf" class=name> CV </a> </h1>
 
@@ -20,47 +20,42 @@ row.names(coauthors) <- coauthors$name
   <li><h2>Working Papers</h2></li>
   
   <li> 
-  <p class=papertitle> <a href="research/AttilaGyetvai_JMP.pdf"><b><u>Job Mobility Within and Across Occupations</u></b></a> (Job Market Paper)</br>
+  <p class=papertitle> <a class=papertitle href="research/AttilaGyetvai_JMP.pdf"><u>Job Mobility Within and Across Occupations</u></a> </br>
   <a href="https://www.youtube.com/watch?v=ZTC8ceJHD84">Video Summary</a>, <a href="research/AttilaGyetvai_JMP_OnlineAppendix.pdf">Online Appendix</a></p>
-  <p class=paperdet> <i> Abstract: </i> 
-  This paper assesses the impact of occupational mobility on life cycle wage inequality.
-  I develop a model of job mobility which attributes differential returns to occupations to occupationally heterogeneous labor market frictions, compensating differentials, and non-pecuniary job switching costs.
-  I estimate the structural model on linked Hungarian administrative data and use it to quantify the relative importance of each of these mechanisms.
-  High-skill occupations offer higher wages and more stable employment but lower non-wage amenities than low-skill ones.
-  Coupled with less frequent offers and higher costs of switching from low-skill to high-skill jobs, workers who start in high-skill occupations have much steeper wage profiles.
-  I find that occupationally heterogeneous labor market frictions are the key determinants of ex ante wage profiles.
-  These results indicate that occupational heterogeneity in the sources of wage inequality is instrumental to fully account for life cycle wage dynamics.
-  </p> </li>
+  <!-- <p class=paperdet> <i> Abstract: </i>  -->
+  <!-- This paper assesses the impact of occupational mobility on life cycle wage inequality. -->
+  <!-- I develop a model of job mobility which attributes differential returns to occupations to occupationally heterogeneous labor market frictions, compensating differentials, and non-pecuniary job switching costs. -->
+  <!-- I estimate the structural model on linked Hungarian administrative data and use it to quantify the relative importance of each of these mechanisms. -->
+  <!-- High-skill occupations offer higher wages and more stable employment but lower non-wage amenities than low-skill ones. -->
+  <!-- Coupled with less frequent offers and higher costs of switching from low-skill to high-skill jobs, workers who start in high-skill occupations have much steeper wage profiles. -->
+  <!-- I find that occupationally heterogeneous labor market frictions are the key determinants of ex ante wage profiles. -->
+  <!-- These results indicate that occupational heterogeneity in the sources of wage inequality is instrumental to fully account for life cycle wage dynamics. -->
+  <!-- </p>  -->
+  </li>
   
   <li> 
-  <p class=papertitle> <a href="research/AGJM_CCPSearch.pdf"><b><u>Conditional Choice Probability Estimation of Continuous-Time Job Search Models</u></b></a> </br>
+  <p class=papertitle> <a class=papertitle href="research/AGJM_CCPSearch.pdf"><u>Conditional Choice Probability Estimation of Continuous-Time Job Search Models</u></a> </br>
   with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Ekaterina Jardim","link"]`, and `r coauthors["Arnaud Maurel","link"]` </p>
-  <p class=paperdet> <i> Abstract: </i> 
-  We propose a new method to estimate continuous-time job search models. 
-Our approach is based on an adaptation of the conditional choice probability estimation methods to a continuous-time job search environment. To do so, the proposed framework incorporates preference shocks into the search framework, resulting in a tight connection between value functions and conditional choice probabilities. 
-Our method, relative to standard estimation methods for continuous-time job search models, yields considerable computational gains. 
-In particular, we can estimate rich nonstationary job search models without having to solve any differential equations, and in some cases even avoiding any optimization. 
-We apply our method to analyze the effect of unemployment benefit expiration on the duration of unemployment and wages using rich longitudinal data from Hungarian administrative records.
-  </p> </li>
+<!--   <p class=paperdet> <i> Abstract: </i>  -->
+<!--   We propose a new method to estimate continuous-time job search models.  -->
+<!-- Our approach is based on an adaptation of the conditional choice probability estimation methods to a continuous-time job search environment. To do so, the proposed framework incorporates preference shocks into the search framework, resulting in a tight connection between value functions and conditional choice probabilities.  -->
+<!-- Our method, relative to standard estimation methods for continuous-time job search models, yields considerable computational gains.  -->
+<!-- In particular, we can estimate rich nonstationary job search models without having to solve any differential equations, and in some cases even avoiding any optimization.  -->
+<!-- We apply our method to analyze the effect of unemployment benefit expiration on the duration of unemployment and wages using rich longitudinal data from Hungarian administrative records. -->
+<!--   </p>  -->
+  </li>
   
   <li> 
-  <p class=papertitle> <a href="research/Gyetvai_Zhu_WorkerNetworks.pdf"><b><u>Coworker Networks and the Role of Occupations in Job Finding</u></b></a> </br>
+  <p class=papertitle> <a class=papertitle href="research/Gyetvai_Zhu_WorkerNetworks.pdf"><u>Coworker Networks and the Role of Occupations in Job Finding</u></a> </br>
   with `r coauthors["Maria Zhu","link"]`</p>
-  <p class=paperdet> <i> Abstract: </i> 
-  Which former coworkers help displaced workers find jobs? 
-  We answer this question by studying occupational similarity in job finding networks. 
-  Using matched employer-employee data from Hungary, this paper relates the unemployment duration of displaced workers to the employment rate of their former coworker networks. 
-  Overall, while coworkers from all occupations are helpful in job finding, we find significant heterogeneity by occupation skill-level. 
-  For workers in low-skill jobs, coworkers who worked in the same narrow occupation as the displaced worker are the most useful network contacts. 
-  For workers in high-skill jobs, coworkers from different occupations are the most useful network contacts.
-  </p> </li>
-</ul>
-
-
-<ul>
-  <li><h2>Work in Progress</h2></li>
-  <li> 
-  <p class=papertitle> <b>Occupational Structure and Firm Performance</b></p>
+  <!-- <p class=paperdet> <i> Abstract: </i>  -->
+  <!-- Which former coworkers help displaced workers find jobs?  -->
+  <!-- We answer this question by studying occupational similarity in job finding networks.  -->
+  <!-- Using matched employer-employee data from Hungary, this paper relates the unemployment duration of displaced workers to the employment rate of their former coworker networks.  -->
+  <!-- Overall, while coworkers from all occupations are helpful in job finding, we find significant heterogeneity by occupation skill-level.  -->
+  <!-- For workers in low-skill jobs, coworkers who worked in the same narrow occupation as the displaced worker are the most useful network contacts.  -->
+  <!-- For workers in high-skill jobs, coworkers from different occupations are the most useful network contacts. -->
+  <!-- </p>  -->
   </li>
 </ul>
 
