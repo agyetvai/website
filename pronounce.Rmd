@@ -6,7 +6,7 @@ title: Attila Gyetvai
 <h1 class=navbar> <a href="research" class=name> RESEARCH </a> &nbsp; &nbsp; &nbsp; <a href="CV_AttilaGyetvai.pdf" class=name> CV </a> </h1>
 
 <ul>
-  <li><p class=paperdet> My name is pronounced like this: uh-TEE-luh YET-wah-yee. Listen to me say it: </p> </li>
+  <li><p class=paperdet> My name is pronounced like this: uh-TILL-luh YET-wah-yee. Listen to me say it: </p> </li>
   
   <li><audio controls> <source src="pronounce.mp3" type="audio/mpeg"> </audio></li>
 
