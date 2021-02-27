@@ -41,7 +41,7 @@ p {
 }
 
 p.intro { text-align: center; font-size: 100%; }
-p.papertitle {}
+p.papertitle { }
 p.paperdet { font-size: 100%; line-height: 1.5; }
 
 body {
