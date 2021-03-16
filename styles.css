@@ -79,11 +79,11 @@ a:hover { color: var(--link-hover-color); text-decoration: none; }
 a:active { color: var(--link-color); }
 a.name:link { color: var(--text-color); }
 a.name:visited { color: var(--text-color); }
-a.name:hover { color: var(--link-name-hover-color); text-decoration: none; }
+a.name:hover { color: var(--link-hover-color); text-decoration: none; }
 a.name:active { color: var(--text-color); }
 a.papertitle:link { color: var(--text-color); }
 a.papertitle:visited { color: var(--text-color); }
-a.papertitle:hover { color: var(--link-name-hover-color); text-decoration: none; }
+a.papertitle:hover { color: var(--link-hover-color); text-decoration: none; }
 a.papertitle:active { color: var(--text-color); }
 
 span.speaker { font-size: 50% }
