@@ -2,9 +2,9 @@
 title: Attila Gyetvai
 ---
 <h1 class=name>   <a href="/" class=name> Attila Gyetvai </a> </h1>
-<h1 class=affil>  PhD Candidate in Economics, Duke University </h1>
+<h1 class=affil>  Research Economist, Bank of Portugal </h1>
 <h1 class=navbar> <a href="research" class=name> RESEARCH </a> &nbsp; &nbsp; &nbsp; <a href="CV_AttilaGyetvai.pdf" class=name> CV </a> </h1>
 
 <center> <img src="photo.jpg" style="height: 40vh; margin-bottom: 40px"/> </center>
 
-<p class=intro> <a href="mailto:attila.gyetvai@duke.edu"> attila.gyetvai@duke.edu </a> &#183; <a href="https://www.iza.org/people/affiliates/31081/attila-gyetvai"> IZA profile </a> &#183; <a href="pronounce" class=name> <img class="speaker" src="speaker.svg" width=15></a> </p>
+<p class=intro> <a href="mailto:agyetvai@bportugal.pt"> agyetvai@bportugal.pt </a> &#183; <a href="https://www.iza.org/people/affiliates/31081/attila-gyetvai"> IZA profile </a> &#183; <a href="pronounce" class=name> <img class="speaker" src="speaker.svg" width=15></a> </p>

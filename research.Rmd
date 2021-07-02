@@ -2,7 +2,7 @@
 title: Attila Gyetvai
 ---
 <h1 class=name>   <a href="/" class=name> Attila Gyetvai </a> </h1>
-<h1 class=affil>  PhD Candidate in Economics, Duke University </h1>
+<h1 class=affil>  Research Economist, Bank of Portugal </h1>
 <h1 class=navbar> <a href="research" class=name> RESEARCH </a> &nbsp; &nbsp; &nbsp; <a href="CV_AttilaGyetvai.pdf" class=name> CV </a> </h1>
 
 ```{r include=FALSE}
