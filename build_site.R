@@ -1,3 +1,3 @@
-setwd("/Users/attila/OneDrive - Duke University/Website")
+setwd("/Users/attila/Website")
 
 rmarkdown::render_site()

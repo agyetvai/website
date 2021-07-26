@@ -7,4 +7,4 @@ title: Attila Gyetvai
 
 <center> <img src="photo.jpg" style="height: 40vh; margin-bottom: 40px"/> </center>
 
-<p class=intro> <a href="mailto:agyetvai@bportugal.pt"> agyetvai@bportugal.pt </a> &#183; <a href="https://www.iza.org/people/affiliates/31081/attila-gyetvai"> IZA profile </a> &#183; <a href="pronounce" class=name> <img class="speaker" src="speaker.svg" width=15></a> </p>
+<p class=intro> <a href="mailto:attila.gyetvai@bportugal.pt"> attila.gyetvai@bportugal.pt </a> &#183; <a href="https://www.iza.org/people/affiliates/31081/attila-gyetvai"> IZA profile </a> &#183; <a href="pronounce" class=name> <img class="speaker" src="speaker.svg" width=15></a> </p>
