@@ -1,3 +1,3 @@
 # Website
 
-Click here: [agyetvai.github.io](https://agyetvai.github.io)
+Click here: [attilagyetvai.com](https://attilagyetvai.com)
