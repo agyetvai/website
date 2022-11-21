@@ -20,21 +20,26 @@ row.names(coauthors) <- coauthors$name
   <li><h2>Working Papers</h2></li>
   
   <li> 
-  <p class=papertitle> <a href="research/AttilaGyetvai_JMP.pdf"><b>Job Mobility Within and Across Occupations</b></a> </br>
-  <a href="https://www.youtube.com/watch?v=ZTC8ceJHD84">Video Summary</a>, <a href="research/AttilaGyetvai_JMP_OnlineAppendix.pdf">Online Appendix</a></p>
+    <p> 
+      <a href="research/AttilaGyetvai_JMP.pdf"><b>Job Mobility Within and Across Occupations</b></a> </br>
+      <a href="https://www.youtube.com/watch?v=ZTC8ceJHD84">Video Summary</a>, <a href="research/AttilaGyetvai_JMP_OnlineAppendix.pdf">Online Appendix</a>
+    </p>
   </li>
   
   <li> 
-  <p class=papertitle> <a href="research/AGJM_CCPSearch.pdf"><b>Conditional Choice Probability Estimation of Continuous-Time Job Search Models</b></a> </br>
-  with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Ekaterina Jardim","link"]`, and `r coauthors["Arnaud Maurel","link"]` </p>
+    <p> 
+      <a href="research/AGMJ_ContTimeSearch.pdf"><b>Identification and Estimation of Continuous-Time Job Search Models with Preference Shocks</b></a> </br>
+      with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Arnaud Maurel","link"]`, and `r coauthors["Ekaterina Jardim","link"]`</br>
+      <a href="https://www.nber.org/papers/w30655">NBER Working Paper 30655</a>
+    </p>
   </li>
   
   <li> 
-  <p class=papertitle> <a href="research/Gyetvai_Zhu_CoworkerNetworks.pdf"><b>Coworker Networks and the Role of Occupations in Job Finding</b></a> </br>
-  with `r coauthors["Maria Zhu","link"]`. <a href="http://ftp.iza.org/dp14615.pdf">IZA Discussion Paper No. 14615</a></p>
+    <p>
+      <a href="research/GZ_CoworkerNetworks.pdf"><b>Coworker Networks and the Role of Occupations in Job Finding</b></a> </br>
+      with `r coauthors["Maria Zhu","link"]` </br>
+      <a href="http://ftp.iza.org/dp14615.pdf">IZA Discussion Paper No. 14615</a>
+    </p>
   </li>
-</ul>
-
-<ul>
 </ul>
 
