@@ -10,5 +10,5 @@ title: Attila Gyetvai
   
   <li><audio controls> <source src="pronounce.mp3" type="audio/mpeg"> </audio></li>
 
-  <li><p class=paperdet> My pronouns are he/him/his. (<a class=papertitle href="https://www.edi.nih.gov/blog/communities/what-are-gender-pronouns-why-do-they-matter"><u>Why pronouns matter.</u></a>)</p></li>
+  <li><p class=paperdet> My pronouns are he/him. (<a class=papertitle href="https://www.edi.nih.gov/blog/communities/what-are-gender-pronouns-why-do-they-matter"><u>Why pronouns matter.</u></a>)</p></li>
 </ul>
