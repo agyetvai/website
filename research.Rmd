@@ -10,7 +10,7 @@ coauthors <- data.frame(
   name = c("Peter Arcidiacono", "Arnaud Maurel", "Maria Zhu", "Ekaterina Jardim"),
   website = c("http://public.econ.duke.edu/~psarcidi/", "http://www.amaurel.net", "http://www.mariazhu.com", "https://ekaterinajardim.com")
 )
-link <- paste0("<a href=\"", coauthors$website, "\">",coauthors$name,"</a>")
+link <- paste0("<a href=\"", coauthors$website, "\"><u>",coauthors$name,"</u></a>")
 coauthors <- cbind(coauthors, link)
 row.names(coauthors) <- coauthors$name
 ```
@@ -22,7 +22,7 @@ row.names(coauthors) <- coauthors$name
   <li> 
     <p> 
       <a href="research/AttilaGyetvai_JMP.pdf"><b>Job Mobility Within and Across Occupations</b></a> </br>
-      <a href="https://www.youtube.com/watch?v=ZTC8ceJHD84">Video Summary</a>, <a href="research/AttilaGyetvai_JMP_OnlineAppendix.pdf">Online Appendix</a>
+      <a href="https://www.youtube.com/watch?v=ZTC8ceJHD84"><u>Video Summary</u></a>, <a href="research/AttilaGyetvai_JMP_OnlineAppendix.pdf"><u>Online Appendix</u></a>
     </p>
   </li>
   
@@ -30,7 +30,7 @@ row.names(coauthors) <- coauthors$name
     <p> 
       <a href="research/AGMJ_ContTimeSearch.pdf"><b>Identification and Estimation of Continuous-Time Job Search Models with Preference Shocks</b></a> </br>
       with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Arnaud Maurel","link"]`, and `r coauthors["Ekaterina Jardim","link"]`</br>
-      <a href="https://www.nber.org/papers/w30655">NBER Working Paper 30655</a>
+      <a href="https://www.nber.org/papers/w30655"><u>NBER Working Paper 30655</u></a>
     </p>
   </li>
   
@@ -38,7 +38,7 @@ row.names(coauthors) <- coauthors$name
     <p>
       <a href="research/GZ_CoworkerNetworks.pdf"><b>Coworker Networks and the Role of Occupations in Job Finding</b></a> </br>
       with `r coauthors["Maria Zhu","link"]` </br>
-      <a href="http://ftp.iza.org/dp14615.pdf">IZA Discussion Paper No. 14615</a>
+      <a href="http://ftp.iza.org/dp14615.pdf"><u>IZA Discussion Paper No. 14615</u></a>
     </p>
   </li>
 </ul>
