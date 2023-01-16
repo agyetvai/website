@@ -8,7 +8,7 @@ title: Attila Gyetvai
 <ul>
   <li><p class=paperdet> My name is pronounced like this: uh-TILL-luh YET-wah-yee. Listen to me say it: </p> </li>
   
-  <li><audio controls> <source src="pronounce.mp3" type="audio/mpeg"> </audio></li>
+  <li><center><audio controls> <source src="pronounce.mp3" type="audio/mpeg"> </audio></center></li>
 
-  <li><p class=paperdet> My pronouns are he/him. (<a class=papertitle href="https://www.edi.nih.gov/blog/communities/what-are-gender-pronouns-why-do-they-matter"><u>Why pronouns matter.</u></a>)</p></li>
+  <li><p class=paperdet> My pronouns are he/him. <a class=papertitle href="https://www.edi.nih.gov/blog/communities/what-are-gender-pronouns-why-do-they-matter"><u>(Why pronouns matter.)</u></a></p></li>
 </ul>
