@@ -66,6 +66,10 @@ ul li {
   font-weight: lighter;
 }
 
+u {
+  text-decoration-thickness: 1px;
+}
+
 
 /* Links */
 a:link { color: var(--link-color); 
