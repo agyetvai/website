@@ -42,7 +42,7 @@ row.names(coauthors) <- coauthors$name
     <p>
       <a href="research/GZ_CoworkerNetworks.pdf"><b>Coworker Networks and the Role of Occupations in Job Finding</b></a> </br>
       with `r coauthors["Maria Zhu","link"]` </br>
-      <a href="research/GZ_CoworkerNetworks.pdf"><u>draft (Nov 2022)</u></a> &#183; 
+      <a href="research/GZ_CoworkerNetworks.pdf"><u>draft (Jan 2023)</u></a> &#183; 
       <a href="http://ftp.iza.org/dp14615.pdf"><u>IZA DP No. 14615</u></a>
     </p>
   </li>
