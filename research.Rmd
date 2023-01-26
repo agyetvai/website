@@ -1,16 +1,16 @@
 ---
 title: Attila Gyetvai
 ---
-<h1 class=name>   <a href="/" class=name> Attila Gyetvai </a> </h1>
+<h1 class=name>   <a class=text1 href="/"> Attila Gyetvai </a> </h1>
 <h1 class=affil>  Research Economist, Bank of Portugal </h1>
-<h1 class=navbar> <a href="research" class=name> RESEARCH </a> &nbsp; &nbsp; &nbsp; <a href="CV_AttilaGyetvai.pdf" class=name> CV </a> </h1>
+<h1 class=navbar> <a class=text1 href="research"> RESEARCH </a> &nbsp; &nbsp; &nbsp; <a class=text1 href="CV_AttilaGyetvai.pdf"> CV </a> </h1>
 
 ```{r include=FALSE}
 coauthors <- data.frame(
   name = c("Peter Arcidiacono", "Arnaud Maurel", "Maria Zhu", "Ekaterina Jardim"),
   website = c("http://public.econ.duke.edu/~psarcidi/", "http://www.amaurel.net", "http://www.mariazhu.com", "https://ekaterinajardim.com")
 )
-link <- paste0("<a href=\"", coauthors$website, "\"><u>",coauthors$name,"</u></a>")
+link <- paste0("<a href=\"", coauthors$website, "\" class=text2><u>",coauthors$name,"</u></a>")
 coauthors <- cbind(coauthors, link)
 row.names(coauthors) <- coauthors$name
 ```
@@ -21,29 +21,29 @@ row.names(coauthors) <- coauthors$name
   
   <li> 
     <p> 
-      <a href="research/AttilaGyetvai_JMP.pdf"><b>Job Mobility Within and Across Occupations</b></a> </br>
-      <a href="research/AttilaGyetvai_JMP.pdf"><u>draft (Sep 2021)</u></a> &#183; 
-      <a href="research/AttilaGyetvai_JMP_OnlineAppendix.pdf"><u>online appendix</u></a> &#183; 
-      <a href="https://www.youtube.com/watch?v=ZTC8ceJHD84"><u>video summary (2 min)</u></a>
+      <a class=text1 href="research/AttilaGyetvai_JMP.pdf"><b>Job Mobility Within and Across Occupations</b></a> </br>
+      <a class=text2 href="research/AttilaGyetvai_JMP.pdf"><u>draft (Sep 2021)</u></a> &#183; 
+      <a class=text2 href="research/AttilaGyetvai_JMP_OnlineAppendix.pdf"><u>online appendix</u></a> &#183; 
+      <a class=text2 href="https://www.youtube.com/watch?v=ZTC8ceJHD84"><u>video summary (2 min)</u></a>
     </p>
   </li>
   
   <li> 
     <p> 
-      <a href="research/AGMJ_ContTimeSearch.pdf"><b>Identification and Estimation of Continuous-Time Job Search Models with Preference Shocks</b></a> </br>
+      <a class=text1 href="research/AGMJ_ContTimeSearch.pdf"><b>Identification and Estimation of Continuous-Time Job Search Models with Preference Shocks</b></a> </br>
       with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Arnaud Maurel","link"]`, and `r coauthors["Ekaterina Jardim","link"]`</br>
-      <a href="research/AGMJ_ContTimeSearch.pdf"><u>draft (Nov 2022)</u></a> &#183; 
-      <a href="https://www.nber.org/papers/w30655"><u>NBER WP 30655</u></a> &#183; 
-      <a href="https://www.youtube.com/watch?v=KIt7SwoIVzg"><u>talk (20 min)</u></a>
+      <a class=text2 href="research/AGMJ_ContTimeSearch.pdf"><u>draft (Nov 2022)</u></a> &#183; 
+      <a class=text2 href="https://www.nber.org/papers/w30655"><u>NBER WP 30655</u></a> &#183; 
+      <a class=text2 href="https://www.youtube.com/watch?v=KIt7SwoIVzg"><u>talk (20 min)</u></a>
     </p>
   </li>
   
   <li> 
     <p>
-      <a href="research/GZ_CoworkerNetworks.pdf"><b>Coworker Networks and the Role of Occupations in Job Finding</b></a> </br>
+      <a class=text1 href="research/GZ_CoworkerNetworks.pdf"><b>Coworker Networks and the Role of Occupations in Job Finding</b></a> </br>
       with `r coauthors["Maria Zhu","link"]` </br>
-      <a href="research/GZ_CoworkerNetworks.pdf"><u>draft (Jan 2023)</u></a> &#183; 
-      <a href="http://ftp.iza.org/dp14615.pdf"><u>IZA DP No. 14615</u></a>
+      <a class=text2 href="research/GZ_CoworkerNetworks.pdf"><u>draft (Jan 2023)</u></a> &#183; 
+      <a class=text2 href="http://ftp.iza.org/dp14615.pdf"><u>IZA DP No. 14615</u></a>
     </p>
   </li>
 </ul>
