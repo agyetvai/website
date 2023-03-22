@@ -1,0 +1,91 @@
+/* Color definitions */
+:root {
+    --text1-color: #FFFFF8;
+    --text1-hover-color: #727272;
+    --text2-color: #AAAAAA;
+    --text2-hover-color: #4E4E4E;
+    --background-color: #181818;
+}
+
+/* Body */
+body { background-color: var(--background-color); }
+
+/* Headers */
+h1 {
+  font-size: 250%;
+  color: var(--text1-color);
+  text-align: center;
+  margin-top:20px;
+  margin-bottom:0px;
+}
+
+h1.title { padding: 0px; visibility: hidden; }
+h1.name { padding: 30px; padding-bottom: 0px; }
+h1.affil { font-size: 100%; font-weight: lighter; color: var(--text2-color); }
+h1.navbar { font-size: 150%; padding: 30px; font-variant: small-caps; }
+
+h2 {
+  font-size: 170%;
+  color: var(--text1-color);
+  font-weight: bolder;
+}
+
+
+/* Text */
+p {
+  font-size: 120%;
+  color: var(--text2-color);
+  font-weight: lighter;
+}
+
+p.intro { text-align: center; font-size: 100%; }
+
+body {
+  font-weight: lighter;
+  overflow-y: scroll;
+}
+
+ul {
+  padding-bottom: 20px;
+  padding-left: 0;
+}
+
+ul li {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  padding-top: 2vw;
+  padding-bottom: 5px;
+  text-align: justify;
+  font-weight: lighter;
+}
+
+u {
+  text-decoration-thickness: 1px;
+}
+
+
+/* Links */
+a:link { color: var(--text1-color); 
+  transition: color 0.15s linear;
+  -webkit-transition: color 0.15s linear;
+  -moz-transition: color 0.15s linear;
+}
+a.text1:link { color: var(--text1-color); }
+a.text1:visited { color: var(--text1-color); }
+a.text1:hover { color: var(--text1-hover-color); text-decoration: none; }
+a.text1:active { color: var(--text1-color); }
+a.text2:link { color: var(--text2-color); }
+a.text2:visited { color: var(--text2-color); }
+a.text2:hover { color: var(--text2-hover-color); text-decoration: none; }
+a.text2:active { color: var(--text2-color); }
+
+span.speaker { font-size: 50% }
+img.speaker:hover {
+    opacity: 0.3;
+    transition: opacity 0.15s linear;
+    -moz-transition: opacity 0.15s linear;
+    -webkit-transition: opacity 0.15s linear;
+}​
+
