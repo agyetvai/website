@@ -21,4 +21,5 @@ output:
     # default cerulean cosmo flatly lumen sandstone simplex united yeti
     css: styles.css
     includes:
-       in_header: gtags.html
+       in_header: header.html
+
