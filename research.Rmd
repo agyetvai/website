@@ -32,7 +32,7 @@ row.names(coauthors) <- coauthors$name
     <p> 
       <a class=text1 href="research/AGMJ_ContTimeSearch.pdf"><b>Identification and Estimation of Continuous-Time Job Search Models with Preference Shocks</b></a> </br>
       with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Arnaud Maurel","link"]`, and `r coauthors["Ekaterina Jardim","link"]` </br>
-      <a class=text2 href="research/AGMJ_ContTimeSearch.pdf"><u>draft (Nov 2022)</u></a> &#183; 
+      <a class=text2 href="research/AGMJ_ContTimeSearch.pdf"><u>draft (Apr 2023)</u></a> &#183; 
       <a class=text2 href="https://www.nber.org/papers/w30655"><u>NBER WP 30655</u></a> &#183; 
       <a class=text2 href="https://www.youtube.com/watch?v=KIt7SwoIVzg"><u>talk (20 min)</u></a>
     </p>
