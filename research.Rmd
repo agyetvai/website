@@ -21,10 +21,11 @@ row.names(coauthors) <- coauthors$name
   
   <li> 
     <p> 
-      <a class=text1 href="research/AttilaGyetvai_JMP.pdf"><b>Job Mobility Within and Across Occupations</b></a> </br>
-      <a class=text2 href="research/AttilaGyetvai_JMP.pdf"><u>draft (Sep 2021)</u></a> &#183; 
+      <a class=text1 href="research/AttilaGyetvai_JMP.pdf"><b>The Option Value of Occupations</b></a> </br>
+      <a class=text2 href="research/AttilaGyetvai_JMP.pdf"><u>old paper (Sep 2021)</u></a> &#183; 
       <a class=text2 href="research/AttilaGyetvai_JMP_OnlineAppendix.pdf"><u>online appendix</u></a> &#183; 
-      <a class=text2 href="https://www.youtube.com/watch?v=ZTC8ceJHD84"><u>video summary (2 min)</u></a>
+      <a class=text2 href="https://www.youtube.com/watch?v=ZTC8ceJHD84"><u>video summary (2 min)</u></a> </br>
+      <i>new version coming soon</i>
     </p>
   </li>
   
@@ -32,9 +33,10 @@ row.names(coauthors) <- coauthors$name
     <p> 
       <a class=text1 href="research/AGMJ_ContTimeSearch.pdf"><b>Identification and Estimation of Continuous-Time Job Search Models with Preference Shocks</b></a> </br>
       with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Arnaud Maurel","link"]`, and `r coauthors["Ekaterina Jardim","link"]` </br>
-      <a class=text2 href="research/AGMJ_ContTimeSearch.pdf"><u>draft (Apr 2023)</u></a> &#183; 
+      <a class=text2 href="research/AGMJ_ContTimeSearch.pdf"><u>paper (Apr 2023)</u></a> &#183; 
       <a class=text2 href="https://www.nber.org/papers/w30655"><u>NBER WP 30655</u></a> &#183; 
-      <a class=text2 href="https://www.youtube.com/watch?v=KIt7SwoIVzg"><u>talk (20 min)</u></a>
+      <a class=text2 href="https://www.youtube.com/watch?v=KIt7SwoIVzg"><u>talk (20 min)</u></a> </br>
+      <i>under review</i>
     </p>
   </li>
   
@@ -42,7 +44,7 @@ row.names(coauthors) <- coauthors$name
     <p>
       <a class=text1 href="research/GZ_CoworkerNetworks.pdf"><b>Coworker Networks and the Role of Occupations in Job Finding</b></a> </br>
       with `r coauthors["Maria Zhu","link"]` </br>
-      <a class=text2 href="research/GZ_CoworkerNetworks.pdf"><u>draft (Jan 2023)</u></a> &#183; 
+      <a class=text2 href="research/GZ_CoworkerNetworks.pdf"><u>paper (Jan 2023)</u></a> &#183; 
       <a class=text2 href="http://ftp.iza.org/dp14615.pdf"><u>IZA DP 14615</u></a> </br>
       R&amp;R at <i>Labour Economics</i>
     </p>
