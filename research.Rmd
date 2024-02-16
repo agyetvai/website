@@ -36,7 +36,7 @@ row.names(coauthors) <- coauthors$name
       <a class=text2 href="research/AGMJ_ContTimeSearch.pdf"><u>paper (Apr 2023)</u></a> &#183; 
       <a class=text2 href="https://www.nber.org/papers/w30655"><u>NBER WP 30655</u></a> &#183; 
       <a class=text2 href="https://www.youtube.com/watch?v=KIt7SwoIVzg"><u>talk (20 min)</u></a> </br>
-      Revisions requested at the <i>Review of Economic Studies</i>
+      revisions requested at the <i>Review of Economic Studies</i>
     </p>
   </li>
   
@@ -46,7 +46,7 @@ row.names(coauthors) <- coauthors$name
       with `r coauthors["Maria Zhu","link"]` </br>
       <a class=text2 href="research/GZ_CoworkerNetworks.pdf"><u>paper (Jan 2023)</u></a> &#183; 
       <a class=text2 href="http://ftp.iza.org/dp14615.pdf"><u>IZA DP 14615</u></a> </br>
-      Revisions requested at <i>Labour Economics</i>
+      revisions requested at <i>Labour Economics</i>
     </p>
   </li>
 </ul>
