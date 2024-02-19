@@ -3,7 +3,7 @@ title: Attila Gyetvai
 ---
 <h1 class=name>   <a class=text1 href="/"> Attila Gyetvai </a> </h1>
 <h1 class=affil>  Research Economist, Bank of Portugal </h1>
-<h1 class=navbar> <a class=text1 href="research"> RESEARCH </a> &nbsp; &nbsp; &nbsp; <a class=text1 href="CV_AttilaGyetvai.pdf"> CV </a> </h1>
+<h1 class=navbar> <a class=text1 href="research"> RESEARCH </a> &nbsp; &nbsp; <a class=text1 href="CV_AttilaGyetvai.pdf"> CV </a> &nbsp; &nbsp; <a class=text1 href="courses"> COURSES </a> </h1>
 
 ```{r include=FALSE}
 coauthors <- data.frame(
