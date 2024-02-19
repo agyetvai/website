@@ -3,7 +3,9 @@ title: Attila Gyetvai
 ---
 <h1 class=name>   <a class=text1 href="/"> Attila Gyetvai </a> </h1>
 <h1 class=affil>  Research Economist, Bank of Portugal </h1>
-<h1 class=navbar> <a class=text1 href="research"> RESEARCH </a> &nbsp; &nbsp; <a class=text1 href="CV_AttilaGyetvai.pdf"> CV </a> &nbsp; &nbsp; <a class=text1 href="courses"> COURSES </a> </h1>
+<h1 class=navbar> <a class=text1 href="research">RESEARCH</a>&nbsp;&nbsp;
+  <a class=text1 href="CV_AttilaGyetvai.pdf">CV</a>&nbsp;&nbsp;
+  <a class=text1 href="courses">COURSES</a></h1>
 
 <center> <img src="photo.jpg" style="height: 40vh; margin-bottom: 40px"/> </center>
 
