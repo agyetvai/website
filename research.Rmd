@@ -9,8 +9,20 @@ title: Attila Gyetvai
 
 ```{r include=FALSE}
 coauthors <- data.frame(
-  name = c("Peter Arcidiacono", "Arnaud Maurel", "Maria Zhu", "Ekaterina Jardim"),
-  website = c("http://public.econ.duke.edu/~psarcidi/", "http://www.amaurel.net", "http://www.mariazhu.com", "https://ekaterinajardim.com")
+  name = c("Peter Arcidiacono", 
+           "Arnaud Maurel", 
+           "Maria Zhu", 
+           "Ekaterina Jardim",
+           "Anikó Bíró",
+           "István Boza",
+           "Dániel Prinz"),
+  website = c("http://public.econ.duke.edu/~psarcidi/", 
+              "http://www.amaurel.net", 
+              "http://www.mariazhu.com", 
+              "https://ekaterinajardim.com",
+              "https://sites.google.com/site/aniko17biro/",
+              "https://sites.google.com/view/bozaistvan/",
+              "http://danielpri.nz")
 )
 link <- paste0("<a href=\"", coauthors$website, "\" class=text2><u>",coauthors$name,"</u></a>")
 coauthors <- cbind(coauthors, link)
@@ -49,6 +61,14 @@ row.names(coauthors) <- coauthors$name
       <a class=text2 href="research/GZ_CoworkerNetworks.pdf"><u>paper (Jan 2023)</u></a> &#183; 
       <a class=text2 href="http://ftp.iza.org/dp14615.pdf"><u>IZA DP 14615</u></a> </br>
       revisions requested at <i>Labour Economics</i>
+    </p>
+  </li>
+  
+  <li> 
+    <p>
+      <a class=text1 href="research/BBGP_HealthShocks.pdf"><b>Health Shocks, Social Insurance, and Firms</b></a> </br>
+      with `r coauthors["Anikó Bíró","link"]`, `r coauthors["István Boza","link"]`, and `r coauthors["Dániel Prinz","link"]` </br>
+      <a class=text2 href="research/BBGP_HealthShocks.pdf"><u>paper (Apr 2024)</u></a>
     </p>
   </li>
 </ul>
