@@ -12,7 +12,10 @@ coauthors <- data.frame(
   name = c("Peter Arcidiacono", 
            "Arnaud Maurel", 
            "Maria Zhu", 
-           "Ekaterina Jardim",
+           "Katya Jardim",
+           "Nasir Hossein Dad",
+           "Eugene Tan",
+           "Nic Kozeniauskas",
            "Anikó Bíró",
            "István Boza",
            "Dániel Prinz"),
@@ -20,6 +23,9 @@ coauthors <- data.frame(
               "http://www.amaurel.net", 
               "http://www.mariazhu.com", 
               "https://ekaterinajardim.com",
+              "https://sites.google.com/view/nasirhosseindad",
+              "https://sites.google.com/site/econeugenetan",
+              "http://nicjkoz.com",
               "https://sites.google.com/site/aniko17biro/",
               "https://sites.google.com/view/bozaistvan/",
               "http://danielpri.nz")
@@ -36,9 +42,9 @@ row.names(coauthors) <- coauthors$name
   <li> 
     <p> 
       <a class=text1 href="research/AttilaGyetvai_JMP.pdf"><b>The Option Value of Occupations</b></a> </br>
-      <a class=text2 href="research/AttilaGyetvai_JMP.pdf"><u>old paper (Sep 2021)</u></a> &#183; 
+      <a class=text2 href="research/AttilaGyetvai_JMP.pdf"><u>old paper</u></a> (Sep 2021) &#183; 
       <a class=text2 href="research/AttilaGyetvai_JMP_OnlineAppendix.pdf"><u>online appendix</u></a> &#183; 
-      <a class=text2 href="https://www.youtube.com/watch?v=ZTC8ceJHD84"><u>video summary (2 min)</u></a> </br>
+      <a class=text2 href="https://www.youtube.com/watch?v=ZTC8ceJHD84"><u>video summary</u></a> (2 min)</br>
       new version coming soon
     </p>
   </li>
@@ -46,10 +52,10 @@ row.names(coauthors) <- coauthors$name
   <li> 
     <p> 
       <a class=text1 href="research/AGMJ_ContTimeSearch.pdf"><b>Identification and Estimation of Continuous-Time Job Search Models with Preference Shocks</b></a> </br>
-      with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Arnaud Maurel","link"]`, and `r coauthors["Ekaterina Jardim","link"]` </br>
-      <a class=text2 href="research/AGMJ_ContTimeSearch.pdf"><u>paper (Apr 2023)</u></a> &#183; 
+      with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Arnaud Maurel","link"]`, and `r coauthors["Katya Jardim","link"]` </br>
+      <a class=text2 href="research/AGMJ_ContTimeSearch.pdf"><u>paper</u></a> (Apr 2023) &#183; 
       <a class=text2 href="https://www.nber.org/papers/w30655"><u>NBER WP 30655</u></a> &#183; 
-      <a class=text2 href="https://www.youtube.com/watch?v=KIt7SwoIVzg"><u>talk (20 min)</u></a> </br>
+      <a class=text2 href="https://www.youtube.com/watch?v=KIt7SwoIVzg"><u>talk</u></a> (20 min) </br>
       revisions requested at the <i>Review of Economic Studies</i>
     </p>
   </li>
@@ -58,7 +64,7 @@ row.names(coauthors) <- coauthors$name
     <p>
       <a class=text1 href="research/GZ_CoworkerNetworks.pdf"><b>Coworker Networks and the Role of Occupations in Job Finding</b></a> </br>
       with `r coauthors["Maria Zhu","link"]` </br>
-      <a class=text2 href="research/GZ_CoworkerNetworks.pdf"><u>paper (Jan 2023)</u></a> &#183; 
+      <a class=text2 href="research/GZ_CoworkerNetworks.pdf"><u>paper</u></a> (Jan 2023) &#183; 
       <a class=text2 href="http://ftp.iza.org/dp14615.pdf"><u>IZA DP 14615</u></a> </br>
       revisions requested at <i>Labour Economics</i>
     </p>
@@ -68,7 +74,20 @@ row.names(coauthors) <- coauthors$name
     <p>
       <a class=text1 href="research/BBGP_HealthShocks.pdf"><b>Health Shocks, Social Insurance, and Firms</b></a> </br>
       with `r coauthors["Anikó Bíró","link"]`, `r coauthors["István Boza","link"]`, and `r coauthors["Dániel Prinz","link"]` </br>
-      <a class=text2 href="research/BBGP_HealthShocks.pdf"><u>paper (Apr 2024)</u></a>
+      <a class=text2 href="research/BBGP_HealthShocks.pdf"><u>paper</u></a> (Apr 2024)
+    </p>
+  </li>
+</ul>
+
+
+<ul>
+  <li><h2>Work in Progress</h2></li>
+  
+  <li> 
+    <p> 
+      <b>The Outside Options of Entrepreneurs</b> </br>
+      with `r coauthors["Nasir Hossein Dad","link"]` and `r coauthors["Eugene Tan","link"]`</br>
+      <a class=text2 href="https://www.bportugal.pt/sites/default/files/documents/2024-04/REEv10n2_en.pdf#page=55"><u>policy piece</u></a> (Apr 2024), joint with `r coauthors["Nic Kozeniauskas","link"]`
     </p>
   </li>
 </ul>
