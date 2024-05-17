@@ -74,7 +74,7 @@ row.names(coauthors) <- coauthors$name
     <p>
       <a class=text1 href="research/BBGP_HealthShocks.pdf"><b>Health Shocks, Social Insurance, and Firms</b></a> </br>
       with `r coauthors["Anikó Bíró","link"]`, `r coauthors["István Boza","link"]`, and `r coauthors["Dániel Prinz","link"]` </br>
-      <a class=text2 href="research/BBGP_HealthShocks.pdf"><u>paper</u></a> (Apr 2024)
+      <a class=text2 href="research/BBGP_HealthShocks.pdf"><u>paper</u></a> (May 2024)
     </p>
   </li>
 </ul>
@@ -86,8 +86,8 @@ row.names(coauthors) <- coauthors$name
   <li> 
     <p> 
       <b>The Outside Options of Entrepreneurs</b> </br>
-      with `r coauthors["Nasir Hossein Dad","link"]` and `r coauthors["Eugene Tan","link"]`</br>
-      <a class=text2 href="research/GHKT_BdP.pdf"><u>policy piece</u></a> (Apr 2024, with `r coauthors["Nic Kozeniauskas","link"]`) &#183; <a class=text2 href="research/GHKT_BdP_NTS.pdf"><u>non-technical summary</u></a>
+      with `r coauthors["Eugene Tan","link"]`</br>
+      <a class=text2 href="research/GHKT_BdP.pdf"><u>policy piece</u></a> (Apr 2024, with `r coauthors["Nasir Hossein Dad","link"]` and `r coauthors["Nic Kozeniauskas","link"]`) &#183; <a class=text2 href="research/GHKT_BdP_NTS.pdf"><u>non-technical summary</u></a>
     </p>
   </li>
 </ul>
