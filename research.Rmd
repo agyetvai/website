@@ -71,7 +71,7 @@ row.names(coauthors) <- coauthors$name
       with `r coauthors["Maria Zhu","link"]` </br>
       <a class=text2 href="research/GZ_CoworkerNetworks.pdf"><u>paper</u></a> (Oct 2024) &#183; 
       <a class=text2 href="http://ftp.iza.org/dp14615.pdf"><u>IZA DP 14615</u></a> </br>
-      revised and resubmitted to <i>Labour Economics</i>
+      conditionally accepted at <i>Labour Economics</i>
     </p>
   </li>
   
