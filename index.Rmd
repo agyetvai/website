@@ -7,8 +7,10 @@ title: Attila Gyetvai
   <a class=text1 href="CV_AttilaGyetvai.pdf">CV</a>&nbsp;&nbsp;
   <a class=text1 href="courses">COURSES</a></h1>
 
-<center> <img src="photo.jpg" style="height: 40vh; margin-bottom: 40px"/> </center>
+<center> <img src="photo.jpg" style="height: 45vh; margin-bottom: 40px"/> </center>
 
 <p class=intro> 
-  <a class=text2 href="mailto:attila.gyetvai@bportugal.pt"> attila.gyetvai@bportugal.pt </a> &nbsp; &nbsp; &nbsp; <a class=text2 href="pronounce"> <img class="speaker" src="speaker.svg" width=20></a> 
+  <a class=text2 href="mailto:attila.gyetvai@bportugal.pt"> attila.gyetvai@bportugal.pt </a> &#183;
+  <a class=text2 href="https://orcid.org/0000-0002-9074-3582"> ORCID </a> &#183;
+  <a class=text2 href="pronounce"> <img class="speaker" src="speaker.svg" width=20></a> 
 </p>
