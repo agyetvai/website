@@ -1,14 +1,5 @@
 /* Color definitions */
 :root {
-  --text1-color: #ffffff;
-  --text1-hover-color: #FA4616;
-  --text2-color: #ffffff;
-  --text2-hover-color: #FA4616;
-  --background-color: #0021A5;
-}
-
-[data-theme="light"] {
-  /* Color definitions */
   --text1-color: #0021A5;
   --text1-hover-color: #FA4616;
   --text2-color: #111111;
@@ -91,7 +82,7 @@ ul li {
   margin: 0;
   padding-left: 0vw;
   padding-right: 0vw;
-  padding-top: 1vw;
+  padding-top: 2vw;
   padding-bottom: 0vw;
   text-align: left;
   font-weight: lighter;
