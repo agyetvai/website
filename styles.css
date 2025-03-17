@@ -14,7 +14,7 @@ body {
 
 /* Headers */
 h1 {
-  font-size: 250%;
+  font-size: 300%;
   color: var(--text1-color);
   text-align: center;
   margin-top: 2vh;
@@ -30,19 +30,14 @@ h1.name {
   padding-bottom: 0vh;
 }
 h1.affil {
-  font-size: 100%;
+  font-size: 130%;
   font-weight: lighter;
   color: var(--text2-color);
   padding: 0vh;
 }
-h1.navbar {
-  font-size: 150%;
-  padding: 3vh;
-  font-variant: small-caps;
-}
 
 h2 {
-  font-size: 170%;
+  font-size: 230%;
   color: var(--text1-color);
   font-weight: bolder;
   padding-top: 2vh;
@@ -51,14 +46,14 @@ h2 {
 
 /* Text */
 p {
-  font-size: 120%;
+  font-size: 150%;
   color: var(--text2-color);
   font-weight: lighter;
 }
 
 p.intro {
   text-align: center;
-  font-size: 120%;
+  font-size: 150%;
 }
 
 p.footer {
@@ -127,17 +122,8 @@ a.text2:active {
 }
 
 /* Images */
-span.speaker {
-  font-size: 50%;
-}
 img.photo {
-  height: 33vh; 
+  height: 45vh; 
   margin-top: 40px; 
   margin-bottom: 40px;
-}
-img.speaker:hover {
-  opacity: 0.3;
-  transition: opacity 0.15s linear;
-  -moz-transition: opacity 0.15s linear;
-  -webkit-transition: opacity 0.15s linear;
 }
