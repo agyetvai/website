@@ -1,7 +1,7 @@
 ---
 title: Attila Gyetvai
 ---
-<h1 class=name><a class=text1 href="">Attila Gyetvai</a></h1>
+<h1 class=name><a class=text1 href="/">Attila Gyetvai</a></h1>
 <h1 class=affil>Research Economist, Bank of Portugal</h1>
 
 <ul>
