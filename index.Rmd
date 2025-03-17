@@ -1,17 +1,97 @@
 ---
 title: Attila Gyetvai
 ---
-<h1 class=name><a class=text1 href="/">Attila Gyetvai</a></h1>
+<h1 class=name><a class=text1 href="pronounce">Attila Gyetvai</a></h1>
 <h1 class=affil>Research Economist, Bank of Portugal</h1>
-<h1 class=navbar><a class=text1 href="research">RESEARCH</a>&nbsp;&nbsp;
-  <a class=text1 href="CV_AttilaGyetvai.pdf">CV</a>&nbsp;&nbsp;
-  <a class=text1 href="courses">COURSES</a>
-</h1>
 
-<center><img src="photo.jpg" style="height: 45vh; margin-bottom: 40px"/></center>
+<center><a href="pronounce"><img class="photo" src="photo.jpg"/></a></center>
 
 <p class=intro> 
-  <a class=text2 href="mailto:attila.gyetvai@bportugal.pt">attila.gyetvai@bportugal.pt</a> &#183;
-  <a class=text2 href="https://orcid.org/0000-0002-9074-3582">ORCID</a> &#183;
-  <a class=text2 href="pronounce"><img class="speaker" src="speaker.svg" width=20></a> 
+  <a class=text1 href="CV_AttilaGyetvai.pdf">CV</a> &nbsp;&#183;&nbsp;
+  <a class=text1 href="mailto:attila.gyetvai@bportugal.pt">attila.gyetvai@bportugal.pt</a>
 </p>
+
+```{r include=FALSE}
+coauthors <- data.frame(
+  name = c("Peter Arcidiacono", 
+           "Arnaud Maurel", 
+           "Maria Zhu", 
+           "Katya Jardim",
+           "Nasir Hossein Dad",
+           "Eugene Tan",
+           "Nic Kozeniauskas",
+           "Anikó Bíró",
+           "István Boza",
+           "Dániel Prinz"),
+  website = c("http://public.econ.duke.edu/~psarcidi/", 
+              "http://www.amaurel.net", 
+              "http://www.mariazhu.com", 
+              "https://ekaterinajardim.com",
+              "https://sites.google.com/view/nasirhosseindad",
+              "https://sites.google.com/site/econeugenetan",
+              "http://nicjkoz.com",
+              "https://sites.google.com/site/aniko17biro/",
+              "https://sites.google.com/view/bozaistvan/",
+              "http://danielpri.nz")
+)
+link <- paste0("<a href=\"", coauthors$website, "\" class=text2><u>",coauthors$name,"</u></a>")
+coauthors <- cbind(coauthors, link)
+row.names(coauthors) <- coauthors$name
+```
+
+
+<ul>
+  <li><h2>Working Papers</h2></li>
+  
+  <li> 
+    <p> 
+      <a class=text1 href="research/GT_HCEntrepRisk.pdf"><b>The Role of Human Capital Specificity in Entrepreneurship</b></a> </br>
+      with `r coauthors["Eugene Tan","link"]`</br>
+      <a class=text2 href="research/GT_HCEntrepRisk.pdf"><u>paper</u></a> (Dec 2024) &#183; <a class=text2 href="research/GHKT_BdP.pdf"><u>policy piece</u></a> (Apr 2024, with `r coauthors["Nasir Hossein Dad","link"]` and `r coauthors["Nic Kozeniauskas","link"]`) &#183; <a class=text2 href="research/GHKT_BdP_NTS.pdf"><u>non-technical summary</u></a> &#183; <a class=text2 href="research/GHKT_BdP_EIP.pdf"><u>box</u></a>
+    </p>
+  </li>
+  
+  <li> 
+    <p> 
+      <a class=text1 href="research/AGMJ_ContTimeSearch.pdf"><b>Identification and Estimation of Continuous-Time Job Search Models with Preference Shocks</b></a> </br>
+      with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Arnaud Maurel","link"]`, and `r coauthors["Katya Jardim","link"]` </br>
+      <a class=text2 href="research/AGMJ_ContTimeSearch.pdf"><u>paper</u></a> (Apr 2023) &#183; 
+      <a class=text2 href="https://www.nber.org/papers/w30655"><u>NBER WP 30655</u></a> &#183; 
+      <a class=text2 href="https://www.youtube.com/watch?v=KIt7SwoIVzg"><u>talk</u></a> (20 min) </br>
+      revisions requested at <i>The Review of Economic Studies</i>
+    </p>
+  </li>
+  
+  <li> 
+    <p> 
+      <a class=text1 href="research/AttilaGyetvai_JMP.pdf"><b>The Option Value of Occupations</b></a> </br>
+      <a class=text2 href="research/AttilaGyetvai_JMP.pdf"><u>paper</u></a> (Oct 2024)
+    </p>
+  </li>
+  
+  <li> 
+    <p>
+      <a class=text1 href="research/BBGP_HealthShocks.pdf"><b>Health Shocks, Social Insurance, and Firms</b></a> </br>
+      with `r coauthors["Anikó Bíró","link"]`, `r coauthors["István Boza","link"]`, and `r coauthors["Dániel Prinz","link"]` </br>
+      <a class=text2 href="research/BBGP_HealthShocks.pdf"><u>paper</u></a> (Nov 2024) &#183; 
+      <a class=text2 href="http://ftp.iza.org/dp17069.pdf"><u>IZA DP 17069</u></a>
+    </p>
+  </li>
+</ul>
+
+
+<ul>
+  <li><h2>Publications</h2></li>
+  
+  <li> 
+    <p>
+      <a class=text1 href="https://doi.org/10.1016/j.labeco.2025.102699"><b>Coworker Networks and the Role of Occupations in Job Finding</b></a> </br>
+      with `r coauthors["Maria Zhu","link"]` </br>
+      accepted for publication in <i>Labour Economics</i> </br>
+      <a class=text2 href="research/GZ_CoworkerNetworks.pdf"><u>author manuscript</u></a> &#183; 
+      <a class=text2 href="http://ftp.iza.org/dp14615.pdf"><u>IZA DP 14615</u></a> &#183; 
+      <a class=text2 href="research/GZ_CoworkerNetworks_code.zip"><u>replication package</u></a> </br>
+    </p>
+  </li>
+  
+</ul>

@@ -17,9 +17,10 @@ navbar:
   #     href: https://github.com/agyetvai
 output:
   html_document:
-    theme: yeti    # https://github.com/thomaspark/bootswatch/tree/master/dist
+    theme: simplex    # https://github.com/thomaspark/bootswatch/tree/master/dist
     # default cerulean cosmo flatly lumen sandstone simplex united yeti
     css: styles.css
     includes:
        in_header: header.html
+       after_body: footer.html
 

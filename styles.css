@@ -1,19 +1,19 @@
 /* Color definitions */
 :root {
-  --text1-color: #fffff8;
-  --text1-hover-color: #727272;
-  --text2-color: #aaaaaa;
-  --text2-hover-color: #4e4e4e;
-  --background-color: #181818;
+  --text1-color: #ffffff;
+  --text1-hover-color: #FA4616;
+  --text2-color: #ffffff;
+  --text2-hover-color: #FA4616;
+  --background-color: #0021A5;
 }
 
 [data-theme="light"] {
   /* Color definitions */
-  --text1-color: #111111;
-  --text1-hover-color: #d5d8dc;
+  --text1-color: #0021A5;
+  --text1-hover-color: #FA4616;
   --text2-color: #111111;
-  --text2-hover-color: #d5d8dc;
-  --background-color: #fefffa;
+  --text2-hover-color: #FA4616;
+  --background-color: #ffffff;
 }
 
 /* Body */
@@ -54,8 +54,8 @@ h2 {
   font-size: 170%;
   color: var(--text1-color);
   font-weight: bolder;
-  padding-top: 3vh;
-  padding-bottom: 2vh;
+  padding-top: 2vh;
+  padding-bottom: 1vh;
 }
 
 /* Text */
@@ -67,7 +67,13 @@ p {
 
 p.intro {
   text-align: center;
+  font-size: 120%;
+}
+
+p.footer {
+  text-align: center;
   font-size: 100%;
+  padding: 1vh;
 }
 
 body {
@@ -129,8 +135,14 @@ a.text2:active {
   color: var(--text2-color);
 }
 
+/* Images */
 span.speaker {
   font-size: 50%;
+}
+img.photo {
+  height: 33vh; 
+  margin-top: 40px; 
+  margin-bottom: 40px;
 }
 img.speaker:hover {
   opacity: 0.3;
