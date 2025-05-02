@@ -46,14 +46,18 @@ h2 {
 
 /* Text */
 p {
-  font-size: 150%;
+  font-size: 125%;
   color: var(--text2-color);
   font-weight: lighter;
 }
 
-p.intro {
+p.menu {
   text-align: center;
   font-size: 150%;
+}
+
+p.intro {
+  padding-top: 2vh;
 }
 
 p.footer {
@@ -68,7 +72,7 @@ body {
 }
 
 ul {
-  padding-bottom: 2vh;
+  padding-bottom: 1vh;
   padding-left: 0;
 }
 
@@ -77,7 +81,7 @@ ul li {
   margin: 0;
   padding-left: 0vw;
   padding-right: 0vw;
-  padding-top: 2vw;
+  padding-top: 1vw;
   padding-bottom: 0vw;
   text-align: left;
   font-weight: lighter;
