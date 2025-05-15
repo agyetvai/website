@@ -10,10 +10,10 @@ title: Attila Gyetvai
   <a class=text1 href="mailto:attila.gyetvai@bportugal.pt">attila.gyetvai@bportugal.pt</a>
 </p>
 <p class=intro>
-  I am a Research Economist at the <a class=text1 href="https://www.bportugal.pt/en/economista/attila-gyetvai">Bank of Portugal</a>. I am also affiliated with <a class=text1 href="https://www.iza.org/person/31081/attila-gyetvai">IZA</a> and <a class=text1 href="https://kti.krtk.hu/en/">CERS-IE</a>. In August 2025, I will join the <a class=text1 href="https://economics.clas.ufl.edu">University of Florida</a> as a Visiting Assistant Professor of Economics. I earned my Ph.D. in Economics from <a class=text1 href="https://econ.duke.edu">Duke University</a> in 2021.
+  I am a Research Economist at the <a class=text1 href="https://www.bportugal.pt/en/economista/attila-gyetvai">Bank of Portugal</a>. I am also affiliated with <a class=text1 href="https://www.iza.org/person/31081/attila-gyetvai">IZA</a> and <a class=text1 href="https://kti.krtk.hu/en/">CERS-IE</a>. In Fall 2025, I will join the <a class=text1 href="https://economics.clas.ufl.edu">University of Florida</a> as a Visiting Assistant Professor of Economics. I earned my Ph.D. in Economics from <a class=text1 href="https://econ.duke.edu">Duke</a> in 2021.
 </p>
 <p class=intro>
-  I co-organize the <a class=text1 href="https://sites.google.com/view/structuralmicroconf/current-edition">Structural Microeconomics Conference</a>; the third edition will be held at Duke in November 2025.
+  I organize the <a class=text1 href="https://sites.google.com/view/structuralmicroconf/current-edition">Structural Microeconomics Conference</a> (Duke, Fall 2025) and the <a class=text1 href="https://sites.google.com/view/gatormacro/workshops">Gator Macro Workshop</a> (UF, Spring 2026).
 </p>
 
 ```{r include=FALSE}
