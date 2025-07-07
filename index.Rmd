@@ -13,7 +13,7 @@ title: Attila Gyetvai
   I am a Research Economist at the <a class=text1 href="https://www.bportugal.pt/en/economista/attila-gyetvai">Bank of Portugal</a>, and a Research Fellow at <a class=text1 href="https://www.iza.org/person/31081/attila-gyetvai">IZA</a> and <a class=text1 href="https://kti.krtk.hu/en/">CERS-IE</a>. In Fall 2025, I will join the <a class=text1 href="https://economics.clas.ufl.edu">University of Florida</a> as a Visiting Assistant Professor of Economics.
 </p>
 <p class=intro>
-  I organize the <a class=text1 href="https://sites.google.com/view/structuralmicroconf/current-edition">Structural Microeconomics Conference</a> (Duke, Fall 2025) and the <a class=text1 href="https://sites.google.com/view/gatormacro/workshops">Gator Macro Workshop</a> (UF, Spring 2026).
+  I organize the <a class=text1 href="https://sites.google.com/view/structuralmicroconf">Structural Microeconomics Conference</a> (Duke, Fall 2025) and the <a class=text1 href="https://sites.google.com/view/gatormacro/workshops">Gator Macro Workshop</a> (UF, Spring 2026).
 </p>
 
 ```{r include=FALSE}
