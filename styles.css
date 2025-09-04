@@ -91,6 +91,20 @@ u {
   text-decoration-thickness: 1px;
 }
 
+/* Marks */
+mark.rr {
+    color: var(--text1-hover-color);
+    background: none;
+    font-weight: bold; 
+    font-style: italic;
+}
+
+mark.pub {
+    color: var(--text1-hover-color);
+    background: none;
+    font-style: italic;
+}
+
 /* Links */
 a:link {
   color: var(--text1-color);

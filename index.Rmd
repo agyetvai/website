@@ -62,7 +62,7 @@ row.names(coauthors) <- coauthors$name
       with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Arnaud Maurel","link"]`, and `r coauthors["Katya Jardim","link"]` </br>
       <a class=text2 href="research/AGMJ_ContTimeSearch.pdf"><u>paper</u></a> (Apr 2023) &#183; 
       <a class=text2 href="https://www.nber.org/papers/w30655"><u>NBER WP 30655</u></a></br>
-      revisions requested at <i>The Review of Economic Studies</i>
+      revisions requested at <mark class="rr">The Review of Economic Studies</mark>
     </p>
   </li>
   
@@ -91,7 +91,7 @@ row.names(coauthors) <- coauthors$name
     <p>
       <a class=text1 href="https://doi.org/10.1016/j.labeco.2025.102699"><b>Coworker Networks and the Role of Occupations in Job Finding</b></a> </br>
       with `r coauthors["Maria Zhu","link"]` </br>
-      <i>Labour Economics</i>, 2025, 94:102699 </br>
+      <mark class="pub">Labour Economics</mark>, 2025, 94:102699 </br>
       <a class=text2 href="research/GZ_CoworkerNetworks.pdf"><u>author manuscript</u></a> &#183; 
       <a class=text2 href="research/GZ_CoworkerNetworks_code.zip"><u>replication package</u></a> </br>
     </p>
