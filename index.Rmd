@@ -93,7 +93,8 @@ row.names(coauthors) <- coauthors$name
       with `r coauthors["Maria Zhu","link"]` </br>
       <mark class="pub">Labour Economics</mark>, 2025, 94:102699 </br>
       <a class=text2 href="research/GZ_CoworkerNetworks.pdf"><u>author manuscript</u></a> &#183; 
-      <a class=text2 href="research/GZ_CoworkerNetworks_code.zip"><u>replication package</u></a> </br>
+      <a class=text2 href="research/GZ_CoworkerNetworks_code.zip"><u>replication package</u></a> &#183; 
+      media coverage: <a class=text2 href="https://telex.hu/defacto/2025/10/17/kivel-baratkozz-a-munkahelyeden-ha-jo-karriert-akarsz"><u>Telex/Defacto</u></a> (in Hungarian) </br>
     </p>
   </li>
   
