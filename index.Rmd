@@ -52,7 +52,7 @@ row.names(coauthors) <- coauthors$name
     <p> 
       <a class=text1 href="research/GT_HCEntrepRisk.pdf"><b>The Role of Human Capital Specificity in Entrepreneurship</b></a> </br>
       with `r coauthors["Eugene Tan","link"]`</br>
-      <a class=text2 href="research/GT_HCEntrepRisk.pdf"><u>paper</u></a> (Feb 2025) &#183; <a class=text2 href="research/GHKT_BdP.pdf"><u>policy piece</u></a> (Apr 2024, with `r coauthors["Nasir Hossein Dad","link"]` and `r coauthors["Nic Kozeniauskas","link"]`) &#183; <a class=text2 href="research/GHKT_BdP_NTS.pdf"><u>non-technical summary</u></a> &#183; <a class=text2 href="research/GHKT_BdP_EIP.pdf"><u>box</u></a>
+      <a class=text2 href="research/GT_HCEntrepRisk.pdf"><u>paper</u></a> (Sep 2025) &#183; <a class=text2 href="research/GHKT_BdP.pdf"><u>policy piece</u></a> (Apr 2024, with `r coauthors["Nasir Hossein Dad","link"]` and `r coauthors["Nic Kozeniauskas","link"]`) &#183; <a class=text2 href="research/GHKT_BdP_NTS.pdf"><u>non-technical summary</u></a> &#183; <a class=text2 href="research/GHKT_BdP_EIP.pdf"><u>box</u></a>
     </p>
   </li>
   
