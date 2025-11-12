@@ -102,6 +102,7 @@ mark.rr {
 mark.pub {
     color: var(--text1-hover-color);
     background: none;
+    font-weight: bold; 
     font-style: italic;
 }
 
