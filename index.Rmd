@@ -50,26 +50,20 @@ row.names(coauthors) <- coauthors$name
   
   <li> 
     <p> 
-      <a class=text1 href="research/GT_HCEntrepRisk.pdf"><b>The Role of Human Capital Specificity in Entrepreneurship</b></a> </br>
-      with `r coauthors["Eugene Tan","link"]`</br>
-      <a class=text2 href="research/GT_HCEntrepRisk.pdf"><u>paper</u></a> (Sep 2025) &#183; <a class=text2 href="research/GHKT_BdP.pdf"><u>policy piece</u></a> (Apr 2024, with `r coauthors["Nasir Hossein Dad","link"]` and `r coauthors["Nic Kozeniauskas","link"]`) &#183; <a class=text2 href="research/GHKT_BdP_NTS.pdf"><u>non-technical summary</u></a> &#183; <a class=text2 href="research/GHKT_BdP_EIP.pdf"><u>box</u></a>
-    </p>
-  </li>
-  
-  <li> 
-    <p> 
       <a class=text1 href="research/AGMJ_ContTimeSearch.pdf"><b>Identification and Estimation of Continuous-Time Job Search Models with Preference Shocks</b></a> </br>
       with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Arnaud Maurel","link"]`, and `r coauthors["Katya Jardim","link"]` </br>
       <a class=text2 href="research/AGMJ_ContTimeSearch.pdf"><u>paper</u></a> (Dec 2025) &#183; 
+      <a class=text2 href="https://www.ifo.de/DocDL/cesifo1_wp12320.pdf"><u>CESifo WP 12320</u></a> &#183;
       revised version of <a class=text2 href="https://www.nber.org/papers/w30655"><u>NBER WP 30655</u></a></br>
-      revised &amp; resubmitted to <mark class="rr">The Review of Economic Studies</mark>
+      revised &amp; resubmitted to <a class="rr">The Review of Economic Studies</a>
     </p>
   </li>
   
   <li> 
     <p> 
-      <a class=text1 href="research/AttilaGyetvai_JMP.pdf"><b>The Option Value of Occupations</b></a> </br>
-      <a class=text2 href="research/AttilaGyetvai_JMP.pdf"><u>paper</u></a> (Oct 2024)
+      <a class=text1 href="research/GT_HCEntrepRisk.pdf"><b>The Role of Human Capital Specificity in Entrepreneurship</b></a> </br>
+      with `r coauthors["Eugene Tan","link"]`</br>
+      <a class=text2 href="research/GT_HCEntrepRisk.pdf"><u>paper</u></a> (Sep 2025) &#183; <a class=text2 href="research/GHKT_BdP.pdf"><u>policy piece</u></a> &#183; <a class=text2 href="research/GHKT_BdP_NTS.pdf"><u>non-technical summary</u></a> &#183; <a class=text2 href="research/GHKT_BdP_EIP.pdf"><u>box</u></a>
     </p>
   </li>
   
@@ -79,6 +73,13 @@ row.names(coauthors) <- coauthors$name
       with `r coauthors["Anikó Bíró","link"]`, `r coauthors["István Boza","link"]`, and `r coauthors["Dániel Prinz","link"]` </br>
       <a class=text2 href="research/BBGP_HealthShocks.pdf"><u>paper</u></a> (Nov 2024) &#183; 
       <a class=text2 href="http://ftp.iza.org/dp17069.pdf"><u>IZA DP 17069</u></a>
+    </p>
+  </li>
+  
+  <li> 
+    <p> 
+      <a class=text1 href="research/AttilaGyetvai_JMP.pdf"><b>The Option Value of Occupations</b></a> </br>
+      <a class=text2 href="research/AttilaGyetvai_JMP.pdf"><u>paper</u></a> (Oct 2024)
     </p>
   </li>
 </ul>
@@ -91,7 +92,7 @@ row.names(coauthors) <- coauthors$name
     <p>
       <a class=text1 href="https://doi.org/10.1016/j.labeco.2025.102699"><b>Coworker Networks and the Role of Occupations in Job Finding</b></a> </br>
       with `r coauthors["Maria Zhu","link"]` </br>
-      <mark class="pub">Labour Economics</mark>, 2025, 94:102699 </br>
+      <a class="pub">Labour Economics</a>, 2025, 94:102699 </br>
       <a class=text2 href="research/GZ_CoworkerNetworks.pdf"><u>author manuscript</u></a> &#183; 
       <a class=text2 href="research/GZ_CoworkerNetworks_code.zip"><u>replication package</u></a> &#183; 
       media coverage: <a class=text2 href="https://telex.hu/defacto/2025/10/17/kivel-baratkozz-a-munkahelyeden-ha-jo-karriert-akarsz"><u>Telex/Defacto</u></a> (in Hungarian) </br>

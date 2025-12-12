@@ -92,18 +92,24 @@ u {
 }
 
 /* Marks */
-mark.rr {
+a.rr {
     color: var(--text1-hover-color);
     background: none;
     font-weight: bold; 
     font-style: italic;
 }
+a.rr:hover {
+  text-decoration: none;
+}
 
-mark.pub {
+a.pub {
     color: var(--text1-hover-color);
     background: none;
     font-weight: bold; 
     font-style: italic;
+}
+a.pub:hover {
+  text-decoration: none;
 }
 
 /* Links */
