@@ -1,7 +1,7 @@
 ---
 title: Attila Gyetvai
 ---
-<h1 class=name><a class=text1 href="pronounce">Attila Gyetvai</a></h1>
+<h1 class=name><a class=text1 href="">Attila Gyetvai</a></h1>
 
 <center><img class="photo" src="photo.jpg"/></center>
 
