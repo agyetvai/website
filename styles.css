@@ -1,10 +1,10 @@
 /* Color definitions */
 :root {
-  --text1-color: #0021A5;
-  --text1-hover-color: #FA4616;
-  --text2-color: #111111;
-  --text2-hover-color: #FA4616;
-  --background-color: #ffffff;
+  --text-color: #000000;          /* black */
+  --link-color: #012169;          /* Duke Navy Blue */
+  --link-hover-color: #E89923;    /* Duke Persimmon */
+  --journal-color: #C84E00;       /* Duke Copper */
+  --background-color: #ffffff;    /* white */
 }
 
 /* Body */
@@ -15,7 +15,7 @@ body {
 /* Headers */
 h1 {
   font-size: 300%;
-  color: var(--text1-color);
+  color: var(--text-color);
   text-align: center;
   margin-top: 2vh;
   margin-bottom: 0vh;
@@ -29,16 +29,10 @@ h1.name {
   padding: 3vh;
   padding-bottom: 0vh;
 }
-h1.affil {
-  font-size: 130%;
-  font-weight: lighter;
-  color: var(--text2-color);
-  padding: 0vh;
-}
 
 h2 {
   font-size: 230%;
-  color: var(--text1-color);
+  color: var(--text-color);
   font-weight: bolder;
   padding-top: 2vh;
   padding-bottom: 1vh;
@@ -47,7 +41,7 @@ h2 {
 /* Text */
 p {
   font-size: 125%;
-  color: var(--text2-color);
+  color: var(--text-color);
   font-weight: lighter;
 }
 
@@ -93,7 +87,7 @@ u {
 
 /* Marks */
 a.rr {
-    color: var(--text1-hover-color);
+    color: var(--journal-color);
     background: none;
     font-weight: bold; 
     font-style: italic;
@@ -103,7 +97,7 @@ a.rr:hover {
 }
 
 a.pub {
-    color: var(--text1-hover-color);
+    color: var(--journal-color);
     background: none;
     font-weight: bold; 
     font-style: italic;
@@ -114,36 +108,23 @@ a.pub:hover {
 
 /* Links */
 a:link {
-  color: var(--text1-color);
+  color: var(--link-color);
   transition: color 0.15s linear;
   -webkit-transition: color 0.15s linear;
   -moz-transition: color 0.15s linear;
 }
-a.text1:link {
-  color: var(--text1-color);
+a.link:link {
+  color: var(--link-color);
 }
-a.text1:visited {
-  color: var(--text1-color);
+a.link:visited {
+  color: var(--link-color);
 }
-a.text1:hover {
-  color: var(--text1-hover-color);
+a.link:hover {
+  color: var(--link-hover-color);
   text-decoration: none;
 }
-a.text1:active {
-  color: var(--text1-color);
-}
-a.text2:link {
-  color: var(--text2-color);
-}
-a.text2:visited {
-  color: var(--text2-color);
-}
-a.text2:hover {
-  color: var(--text2-hover-color);
-  text-decoration: none;
-}
-a.text2:active {
-  color: var(--text2-color);
+a.link:active {
+  color: var(--link-color);
 }
 
 /* Images */
