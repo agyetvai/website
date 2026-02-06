@@ -90,7 +90,7 @@ row.names(coauthors) <- coauthors$name
     <p>
       <a class=link href="https://doi.org/10.1016/j.labeco.2025.102699"><b>Coworker Networks and the Role of Occupations in Job Finding</b></a> </br>
       with `r coauthors["Maria Zhu","link"]` </br>
-      <a class="pub">Labour Economics</a>, 2025, 94:102699 </br>
+      <a class="pub">Labour Economics</a>, 94:102699 (2025)</br>
       <a class=link href="research/GZ_CoworkerNetworks.pdf"><u>author manuscript</u></a> &#183; 
       <a class=link href="research/GZ_CoworkerNetworks_code.zip"><u>replication package</u></a> &#183; 
       media coverage: <a class=link href="https://telex.hu/defacto/2025/10/17/kivel-baratkozz-a-munkahelyeden-ha-jo-karriert-akarsz"><u>Telex/Defacto</u></a> (in Hungarian) </br>
