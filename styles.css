@@ -1,9 +1,9 @@
 /* color definitions */
 :root {
-  --text-color: #000000;          /* black */
-  --link-color: #00539B;          /* Duke Royal Blue */
-  --journal-color: #C84E00;       /* Duke Copper */
-  --background-color: #FFFFFF;    /* white */
+  --text-color: #333333;          /* dark charcoal */
+  --link-color: #0000CC;          /* medium blue */
+  --journal-color: #333333;       /* dark charcoal */
+  --background-color: #FFFAFA;    /* snow white */
 }
 
 /* body */

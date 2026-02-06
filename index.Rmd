@@ -47,14 +47,14 @@ row.names(coauthors) <- coauthors$name
   
   <li> 
     <p> 
-      <a class=link href="research/GT_HCEntrepRisk.pdf"><b>The Role of Human Capital Specificity in Entrepreneurship</b> (Jan 2026)</a> </br>
+      <a class=link href="research/GT_HCEntrepRisk.pdf"><b>The Role of Human Capital Specificity in Entrepreneurship</b></a> </br>
       with `r coauthors["Eugene Tan","link"]`
     </p>
   </li>
   
   <li> 
     <p> 
-      <a class=link href="research/AGMJ_ContTimeSearch.pdf"><b>Identification and Estimation of Continuous-Time Job Search Models with Preference Shocks</b> (Dec 2025)</a></br>
+      <a class=link href="research/AGMJ_ContTimeSearch.pdf"><b>Identification and Estimation of Continuous-Time Job Search Models with Preference Shocks</b></a></br>
       with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Arnaud Maurel","link"]`, and `r coauthors["Katya Jardim","link"]` </br>
       revised &amp; resubmitted to <span class=journal>The Review of Economic Studies</span>
     </p>
@@ -62,14 +62,14 @@ row.names(coauthors) <- coauthors$name
   
   <li> 
     <p>
-      <a class=link href="research/BBGP_HealthShocks.pdf"><b>Health Shocks, Social Insurance, and Firms</b> (Nov 2024)</a> </br>
+      <a class=link href="research/BBGP_HealthShocks.pdf"><b>Health Shocks, Social Insurance, and Firms</b></a> </br>
       with `r coauthors["Anikó Bíró","link"]`, `r coauthors["István Boza","link"]`, and `r coauthors["Dániel Prinz","link"]`
     </p>
   </li>
   
   <li> 
     <p> 
-      <a class=link href="research/AttilaGyetvai_JMP.pdf"><b>The Option Value of Occupations</b> (Oct 2024)</a>
+      <a class=link href="research/AttilaGyetvai_JMP.pdf"><b>The Option Value of Occupations</b></a>
     </p>
   </li>
 </ul>
