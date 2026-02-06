@@ -47,14 +47,14 @@ row.names(coauthors) <- coauthors$name
   
   <li> 
     <p> 
-      <a class=link href="research/GT_HCEntrepRisk.pdf"><b>The Role of Human Capital Specificity in Entrepreneurship</b></a> </br>
+      <a class=link href="research/GT_HCEntrepRisk.pdf">"The Role of Human Capital Specificity in Entrepreneurship"</span> (<span class=date>Jan 2026</span>)</a> </br>
       with `r coauthors["Eugene Tan","link"]`
     </p>
   </li>
   
   <li> 
     <p> 
-      <a class=link href="research/AGMJ_ContTimeSearch.pdf"><b>Identification and Estimation of Continuous-Time Job Search Models with Preference Shocks</b></a></br>
+      <a class=link href="research/AGMJ_ContTimeSearch.pdf">"Identification and Estimation of Continuous-Time Job Search Models with Preference Shocks" (<span class=date>Dec 2025</span>)</a></br>
       with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Arnaud Maurel","link"]`, and `r coauthors["Katya Jardim","link"]` </br>
       revised &amp; resubmitted to <span class=journal>The Review of Economic Studies</span>
     </p>
@@ -62,14 +62,14 @@ row.names(coauthors) <- coauthors$name
   
   <li> 
     <p>
-      <a class=link href="research/BBGP_HealthShocks.pdf"><b>Health Shocks, Social Insurance, and Firms</b></a> </br>
+      <a class=link href="research/BBGP_HealthShocks.pdf">"Health Shocks, Social Insurance, and Firms" (<span class=date>Nov 2024</span>)</a> </br>
       with `r coauthors["Anikó Bíró","link"]`, `r coauthors["István Boza","link"]`, and `r coauthors["Dániel Prinz","link"]`
     </p>
   </li>
   
   <li> 
     <p> 
-      <a class=link href="research/AttilaGyetvai_JMP.pdf"><b>The Option Value of Occupations</b></a>
+      <a class=link href="research/AttilaGyetvai_JMP.pdf">"The Option Value of Occupations" (<span class=date>Oct 2024</span>)</a>
     </p>
   </li>
 </ul>
@@ -80,9 +80,9 @@ row.names(coauthors) <- coauthors$name
   
   <li> 
     <p>
-      <a class=link href="research/GZ_CoworkerNetworks.pdf"><b>Coworker Networks and the Role of Occupations in Job Finding</b></a> </br>
+      <a class=link href="research/GZ_CoworkerNetworks.pdf">"Coworker Networks and the Role of Occupations in Job Finding" (<span class=date>2025</span>)</a> </br>
       with `r coauthors["Maria Zhu","link"]` </br>
-      <a class=link href="https://doi.org/10.1016/j.labeco.2025.102699"><span class=journal>Labour Economics</span>, 94:102699 (2025)</a> &#183; <a class=link href="research/GZ_CoworkerNetworks_code.zip">replication package</a>
+      <a class=link href="https://doi.org/10.1016/j.labeco.2025.102699"><span class=journal>Labour Economics</span>, 94:102699</a> &#183; <a class=link href="research/GZ_CoworkerNetworks_code.zip">replication package</a>
     </p>
   </li>
   

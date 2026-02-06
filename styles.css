@@ -1,7 +1,7 @@
 /* color definitions */
 :root {
   --text-color: #333333;          /* dark charcoal */
-  --link-color: #0000CC;          /* medium blue */
+  --link-color: #424242;          /* lighter charcoal */
   --journal-color: #333333;       /* dark charcoal */
   --background-color: #FFFAFA;    /* snow white */
 }
@@ -39,7 +39,7 @@ h2 {
 
 /* text */
 p {
-  font-size: 150%;
+  font-size: 140%;
   color: var(--text-color);
   font-weight: lighter;
 }
@@ -77,24 +77,14 @@ ul li {
   font-weight: lighter;
 }
 
-u {
-  text-decoration-thickness: 1px;
-}
-
 .journal {
     color: var(--journal-color);
     font-weight: bold; 
     font-style: italic;
 }
 
-/* marks */
-a.pub {
-    color: var(--journal-color);
-    font-weight: bold; 
-    font-style: italic;
-}
-a.pub:hover {
-  text-decoration: none;
+.date {
+    text-decoration: underline;
 }
 
 /* links */
