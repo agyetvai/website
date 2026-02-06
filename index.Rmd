@@ -1,7 +1,7 @@
 ---
 title: Attila Gyetvai
 ---
-<h1 class=name><a class=link href="">Attila Gyetvai</a></h1>
+<h1 class=name>Attila Gyetvai</h1>
 
 <center><img class="photo" src="photo.jpg"/></center>
 
@@ -10,7 +10,7 @@ title: Attila Gyetvai
   <a class=link href="mailto:agyetvai@ufl.edu">agyetvai@ufl.edu</a>
 </p>
 <p class=intro>
-  I am a Visiting Assistant Professor of Economics at the <a class=link href="https://economics.clas.ufl.edu">University of Florida</a>, while I am on leave from the <a class=link href="https://www.bportugal.pt/en/economista/attila-gyetvai">Bank of Portugal</a>. I am also a Research Fellow at <a class=link href="https://www.iza.org/person/31081/attila-gyetvai">IZA</a> and at <a class=link href="https://kti.krtk.hu/en/">CERS-IE</a>.
+  I am a Visiting Assistant Professor of Economics at the <a class=link href="https://economics.clas.ufl.edu">University of Florida</a> while I am on leave from the <a class=link href="https://www.bportugal.pt/en/economista/attila-gyetvai">Bank of Portugal</a>. I am also a Research Fellow at <a class=link href="https://www.iza.org/person/31081/attila-gyetvai">IZA@LISER</a> and at <a class=link href="https://kti.krtk.hu/en/">CERS-IE</a>.
 </p>
 
 ```{r include=FALSE}
@@ -47,37 +47,29 @@ row.names(coauthors) <- coauthors$name
   
   <li> 
     <p> 
-      <a class=link href="research/GT_HCEntrepRisk.pdf"><b>The Role of Human Capital Specificity in Entrepreneurship</b></a> </br>
-      with `r coauthors["Eugene Tan","link"]`</br>
-      <a class=link href="research/GT_HCEntrepRisk.pdf"><u>paper</u></a> (Jan 2026) &#183; <a class=link href="research/GHKT_BdP.pdf"><u>policy piece</u></a> &#183; <a class=link href="research/GHKT_BdP_NTS.pdf"><u>non-technical summary</u></a> &#183; <a class=link href="research/GHKT_BdP_EIP.pdf"><u>box</u></a>
+      <a class=link href="research/GT_HCEntrepRisk.pdf"><b>The Role of Human Capital Specificity in Entrepreneurship</b> (Jan 2026)</a> </br>
+      with `r coauthors["Eugene Tan","link"]`
     </p>
   </li>
   
   <li> 
     <p> 
-      <a class=link href="research/AGMJ_ContTimeSearch.pdf"><b>Identification and Estimation of Continuous-Time Job Search Models with Preference Shocks</b></a> </br>
+      <a class=link href="research/AGMJ_ContTimeSearch.pdf"><b>Identification and Estimation of Continuous-Time Job Search Models with Preference Shocks</b> (Dec 2025)</a></br>
       with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Arnaud Maurel","link"]`, and `r coauthors["Katya Jardim","link"]` </br>
-      <a class=link href="research/AGMJ_ContTimeSearch.pdf"><u>paper</u></a> (Dec 2025) &#183; 
-      <a class=link href="https://docs.iza.org/dp18309.pdf"><u>IZA DP 18309</u></a> &#183;
-      <a class=link href="https://www.ifo.de/DocDL/cesifo1_wp12320.pdf"><u>CESifo WP 12320</u></a> &#183;
-      revised version of <a class=link href="https://www.nber.org/papers/w30655"><u>NBER WP 30655</u></a></br>
-      revised &amp; resubmitted to <a class="rr">The Review of Economic Studies</a>
+      revised &amp; resubmitted to <span class=journal>The Review of Economic Studies</span>
     </p>
   </li>
   
   <li> 
     <p>
-      <a class=link href="research/BBGP_HealthShocks.pdf"><b>Health Shocks, Social Insurance, and Firms</b></a> </br>
-      with `r coauthors["Anikó Bíró","link"]`, `r coauthors["István Boza","link"]`, and `r coauthors["Dániel Prinz","link"]` </br>
-      <a class=link href="research/BBGP_HealthShocks.pdf"><u>paper</u></a> (Nov 2024) &#183; 
-      <a class=link href="http://ftp.iza.org/dp17069.pdf"><u>IZA DP 17069</u></a>
+      <a class=link href="research/BBGP_HealthShocks.pdf"><b>Health Shocks, Social Insurance, and Firms</b> (Nov 2024)</a> </br>
+      with `r coauthors["Anikó Bíró","link"]`, `r coauthors["István Boza","link"]`, and `r coauthors["Dániel Prinz","link"]`
     </p>
   </li>
   
   <li> 
     <p> 
-      <a class=link href="research/AttilaGyetvai_JMP.pdf"><b>The Option Value of Occupations</b></a> </br>
-      <a class=link href="research/AttilaGyetvai_JMP.pdf"><u>paper</u></a> (Oct 2024)
+      <a class=link href="research/AttilaGyetvai_JMP.pdf"><b>The Option Value of Occupations</b> (Oct 2024)</a>
     </p>
   </li>
 </ul>
@@ -88,12 +80,9 @@ row.names(coauthors) <- coauthors$name
   
   <li> 
     <p>
-      <a class=link href="https://doi.org/10.1016/j.labeco.2025.102699"><b>Coworker Networks and the Role of Occupations in Job Finding</b></a> </br>
+      <a class=link href="research/GZ_CoworkerNetworks.pdf"><b>Coworker Networks and the Role of Occupations in Job Finding</b></a> </br>
       with `r coauthors["Maria Zhu","link"]` </br>
-      <a class="pub">Labour Economics</a>, 94:102699 (2025)</br>
-      <a class=link href="research/GZ_CoworkerNetworks.pdf"><u>author manuscript</u></a> &#183; 
-      <a class=link href="research/GZ_CoworkerNetworks_code.zip"><u>replication package</u></a> &#183; 
-      media coverage: <a class=link href="https://telex.hu/defacto/2025/10/17/kivel-baratkozz-a-munkahelyeden-ha-jo-karriert-akarsz"><u>Telex/Defacto</u></a> (in Hungarian) </br>
+      <a class=link href="https://doi.org/10.1016/j.labeco.2025.102699"><span class=journal>Labour Economics</span>, 94:102699 (2025)</a> &#183; <a class=link href="research/GZ_CoworkerNetworks_code.zip">replication package</a>
     </p>
   </li>
   

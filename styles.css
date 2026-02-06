@@ -1,18 +1,17 @@
-/* Color definitions */
+/* color definitions */
 :root {
   --text-color: #000000;          /* black */
-  --link-color: #012169;          /* Duke Navy Blue */
-  --link-hover-color: #D3D2E3;    /* lighter tint of Duke Navy Blue */
+  --link-color: #00539B;          /* Duke Royal Blue */
   --journal-color: #C84E00;       /* Duke Copper */
   --background-color: #FFFFFF;    /* white */
 }
 
-/* Body */
+/* body */
 body {
   background-color: var(--background-color);
 }
 
-/* Headers */
+/* headers */
 h1 {
   font-size: 300%;
   color: var(--text-color);
@@ -38,22 +37,19 @@ h2 {
   padding-bottom: 1vh;
 }
 
-/* Text */
+/* text */
 p {
   font-size: 125%;
   color: var(--text-color);
   font-weight: lighter;
 }
-
 p.menu {
   text-align: center;
   font-size: 150%;
 }
-
 p.intro {
   padding-top: 2vh;
 }
-
 p.footer {
   text-align: center;
   font-size: 100%;
@@ -85,20 +81,15 @@ u {
   text-decoration-thickness: 1px;
 }
 
-/* Marks */
-a.rr {
+.journal {
     color: var(--journal-color);
-    background: none;
     font-weight: bold; 
     font-style: italic;
 }
-a.rr:hover {
-  text-decoration: none;
-}
 
+/* marks */
 a.pub {
     color: var(--journal-color);
-    background: none;
     font-weight: bold; 
     font-style: italic;
 }
@@ -106,12 +97,9 @@ a.pub:hover {
   text-decoration: none;
 }
 
-/* Links */
+/* links */
 a:link {
   color: var(--link-color);
-  transition: color 0.15s linear;
-  -webkit-transition: color 0.15s linear;
-  -moz-transition: color 0.15s linear;
 }
 a.link:link {
   color: var(--link-color);
@@ -120,14 +108,13 @@ a.link:visited {
   color: var(--link-color);
 }
 a.link:hover {
-  color: var(--link-hover-color);
-  text-decoration: none;
+  text-decoration: underline;
 }
 a.link:active {
   color: var(--link-color);
 }
 
-/* Images */
+/* images */
 img.photo {
   height: 45vh; 
   margin-top: 40px; 
