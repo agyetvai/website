@@ -2,9 +2,9 @@
 :root {
   --text-color: #000000;          /* black */
   --link-color: #012169;          /* Duke Navy Blue */
-  --link-hover-color: #E89923;    /* Duke Persimmon */
+  --link-hover-color: #D3D2E3;    /* lighter tint of Duke Navy Blue */
   --journal-color: #C84E00;       /* Duke Copper */
-  --background-color: #ffffff;    /* white */
+  --background-color: #FFFFFF;    /* white */
 }
 
 /* Body */
