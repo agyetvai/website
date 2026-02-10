@@ -1,8 +1,7 @@
 /* color definitions */
 :root {
   --text-color: #333333;          /* dark charcoal */
-  --link-color: #424242;          /* lighter charcoal */
-  --journal-color: #333333;       /* dark charcoal */
+  --link-hover-color: #ADADAD;    
   --background-color: #FFFAFA;    /* snow white */
 }
 
@@ -12,102 +11,61 @@ body {
 }
 
 /* headers */
-h1 {
-  font-size: 400%;
-  color: var(--text-color);
-  text-align: center;
-  margin-top: 2vh;
-  margin-bottom: 0vh;
-}
-
 h1.title {
-  padding: 0vh;
+  padding: 0vw;
   visibility: hidden;
-}
-h1.name {
-  padding: 3vh;
-  padding-bottom: 0vh;
-}
-
-h2 {
-  font-size: 250%;
-  color: var(--text-color);
-  font-weight: bolder;
-  padding-top: 1vh;
-  padding-bottom: 0.5vh;
 }
 
 /* text */
 p {
-  font-size: 140%;
-  color: var(--text-color);
-  font-weight: lighter;
-}
-p.menu {
-  text-align: center;
+  font-family: -apple-system-body, BlinkMacSystemFont-body, Helvetica, Arial, sans-serif;
   font-size: 200%;
-}
-p.intro {
-  padding-top: 2vh;
+  color: var(--text-color);
+  text-align: left;
 }
 p.footer {
+  color: var(--background-color);
   text-align: center;
   font-size: 100%;
   padding: 1vh;
 }
-
-body {
-  font-weight: lighter;
-  overflow-y: scroll;
-}
-
-ul {
-  padding-bottom: 1vh;
-  padding-left: 0;
+p.big {
+  padding-left: 1vw;
+  padding-right: 1vw;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
 }
 
 ul li {
   list-style-type: none;
-  margin: 0;
-  padding-left: 0vw;
-  padding-right: 0vw;
-  padding-top: 1vw;
-  padding-bottom: 0vw;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
   text-align: left;
-  font-weight: lighter;
-}
-
-.journal {
-    color: var(--journal-color);
-    font-weight: bold; 
-    font-style: italic;
-}
-
-.date {
-    text-decoration: underline;
+  font-family: -apple-system-body, BlinkMacSystemFont-body, Helvetica, Arial, sans-serif;
+  font-size: 200%;
+  color: var(--text-color);
 }
 
 /* links */
-a:link {
-  color: var(--link-color);
-}
 a.link:link {
-  color: var(--link-color);
-}
-a.link:visited {
-  color: var(--link-color);
+  color: var(--text-color);
+  text-decoration: underline;
 }
 a.link:hover {
+  color: var(--link-hover-color);
   text-decoration: underline;
 }
 a.link:active {
-  color: var(--link-color);
+  color: var(--text-color);
+  text-decoration: underline;
 }
-
-/* images */
-img.photo {
-  height: 20vh; 
-  margin-top: 40px; 
-  margin-bottom: 40px;
-  
+a.link:visited {
+  color: var(--text-color);
+  text-decoration: underline;
+}
+a.link:visited:hover {
+  color: var(--link-hover-color);
+  text-decoration: underline;
 }
