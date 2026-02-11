@@ -1,7 +1,7 @@
 /* color definitions */
 :root {
   --text-color: #333333;          /* dark charcoal */
-  --link-hover-color: #ADADAD;    
+  --link-hover-color: #ADADAD;    /* light charcoal */
   --background-color: #FFFAFA;    /* snow white */
 }
 
