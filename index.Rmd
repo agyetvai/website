@@ -30,7 +30,9 @@ row.names(coauthors) <- coauthors$name
 ```
 
 <p class=big>
-  I, Attila Gyetvai, am a research economist. I am currently on leave from the Bank of Portugal and visiting the University of Florida.
+  I, Attila Gyetvai, am a research economist. 
+  I study job mobility.
+  I am currently on leave from the Bank of Portugal and visiting the University of Florida.
   <a class=link href="cv_attila_gyetvai.pdf">Here is my CV</a>. 
   You can reach me at <a class=link href="mailto:agyetvai@ufl.edu">agyetvai@ufl.edu</a>.
 </p>
