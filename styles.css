@@ -48,6 +48,11 @@ ul li {
   color: var(--text-color);
 }
 
+.journal {
+  font-weight: bold;
+  font-style: italic;
+}
+
 /* links */
 a.link:link {
   color: var(--text-color);
