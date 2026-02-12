@@ -39,7 +39,7 @@ p.big {
 ul li {
   list-style-type: none;
   padding-left: 1vw;
-  padding-right: 1vw;
+  padding-right: 0vw;
   padding-top: 2vh;
   padding-bottom: 2vh;
   text-align: left;
