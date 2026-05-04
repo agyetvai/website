@@ -42,7 +42,7 @@ row.names(coauthors) <- coauthors$name
   Here are my working papers:
   <ul>
     <li>"<a class=link href="research/gt_entrep_hc_risk.pdf">The Role of Human Capital Specificity in Entrepreneurship</a>" with `r coauthors["Eugene Tan","link"]`</li>
-    <li>"<a class=link href="research/agmj_ccp_search.pdf">Identification and Estimation of Continuous-Time Job Search Models</a>" with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Arnaud Maurel","link"]`, and `r coauthors["Katya Jardim","link"]`, R&R at <span class=journal>The Review of Economic Studies</span></li>
+    <li>"<a class=link href="research/agmj_ccp_search.pdf">Identification and Estimation of Continuous-Time Job Search Models</a>" with `r coauthors["Peter Arcidiacono","link"]`, `r coauthors["Arnaud Maurel","link"]`, and `r coauthors["Katya Jardim","link"]`, 2nd R&R at <span class=journal>The Review of Economic Studies</span></li>
     <li>"<a class=link href="research/bbgp_health_shocks.pdf">Health Shocks, Social Insurance, and Firms</a>" with `r coauthors["Anikó Bíró","link"]`, `r coauthors["István Boza","link"]`, and `r coauthors["Dániel Prinz","link"]`</li>
     <li>"<a class=link href="research/g_option_value_occs.pdf">The Option Value of Occupations</a>"</li>
   </ul>
